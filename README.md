@@ -1,4 +1,15 @@
 # Welcome to Jeffrey's Portfolio!
+This is Jeffrey's public portfolio for the Telling Stories with Data class at CMU!
 
-link to live site https://jeffreyscanlon.github.io/simple-page/
+Link to live site: https://jeffreyscanlon.github.io/simple-page/
 
+# About me
+I am a candidate for my Masters in Public Policy and Management, with a concentration in Data Analytics at Heinz College. My undergraduate field of study is biology. After graduating in 2014, I worked for five years in public schools as a middle school and high school science teacher. My first two years of teaching were in the Mississippi Delta as a Teach for America corps member, and my last three years of teaching were at a charter school in Nashville, Tennessee. As the quotation from Jonathan Zimmerman illustrates, the classroom is an intimate place. It was a daily honor and privilege to work with my students and to be given snapshots into their lives. It also, however, was awakening for me in many ways, as it made me far more aware of the extreme social, racial, and environmental inequities that exist in our country. Compelled by the injustices experienced by my students and their families, and by the increasing threat of climate change, I enrolled in my program at Heinz to gain the skills and education necessary to make a larger impact.
+
+During my time at Heinz, I have had the opportunity to apply my new skills in many settings. During my first year, I worked with the education department at the Carnegie Museum of Natural History to perform a data analytics project for them. I was able to analyze patterns in the schools and groups that have historically visited their museum, helping them to strengthen existing relationships between the museum and the community. I also helped them evaluate the equity of their services, identifying schools and communities that historically were not being served by the museum, and helping them to identify potential barriers to access that the museum could work to reduce or eliminate. I have also been able to work with the Environmental Defense Fund and Covestro, a large chemical manufacturer, to improve the analytic capacity of their energy usage reporting dashboard and develop an environmental justice strategy for the company. I look forward to even more opportunities in this, my final year of the program.
+
+# What I Hope to Learn
+In this course, I am hoping to learn how to design professional visualizations that are appropriate for the audience and the context of the problem. I hope to develop my skills as a data interpreter--a liaison between multiple departments within an organization, able to communicate not only technical and stastistical concepts but also strategic business and organizational insights. I hope to be able to use data to convey messages that are not only compelling, but also honest, holisitic, and perhaps novel.
+
+# Portfolio
+Here's where all of my nice data visualizations will go.
