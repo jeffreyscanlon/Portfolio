@@ -9,7 +9,12 @@ I am a candidate for my Masters in Public Policy and Management, with a concentr
 During my time at Heinz, I have had the opportunity to apply my new skills in many settings. During my first year, I worked with the education department at the Carnegie Museum of Natural History to perform a data analytics project for them. I was able to analyze patterns in the schools and groups that have historically visited their museum, helping them to strengthen existing relationships between the museum and the community. I also helped them evaluate the equity of their services, identifying schools and communities that historically were not being served by the museum, and helping them to identify potential barriers to access that the museum could work to reduce or eliminate. I have also been able to work with the Environmental Defense Fund and Covestro, a large chemical manufacturer, to improve the analytic capacity of their energy usage reporting dashboard and develop an environmental justice strategy for the company. I look forward to even more opportunities in this, my final year of the program.
 
 # What I Hope to Learn
-In this course, I am hoping to learn how to design professional visualizations that are appropriate for the audience and the context of the problem. I hope to develop my skills as a data interpreter--a liaison between multiple departments within an organization, able to communicate not only technical and stastistical concepts but also strategic business and organizational insights. I hope to be able to use data to convey messages that are not only compelling, but also honest, holisitic, and perhaps novel.
+In this course, I am hoping to learn how to design professional visualizations that are appropriate for the audience and the context of the problem. I hope to develop my skills as a data interpreter--a liaison between multiple departments within an organization, able to communicate not only technical and stastistical concepts but also strategic business and organizational insights. I hope to be able to use data to convey ideas that are not only compelling, but also honest, holisitic, and novel.
 
 # Portfolio
 Here's where all of my nice data visualizations will go.
+
+# Contact
+Jeffrey Scanlon
+(he/him/his)
+LinkedIn: https://www.linkedin.com/in/jeff-scanlon3/
