@@ -25,6 +25,13 @@ In this visualization, I've created a grid of line charts to show a snapshot or 
 
 <div class="flourish-embed flourish-chart" data-src="visualisation/3749016" data-url="https://flo.uri.sh/visualisation/3749016/embed" aria-label="" data-width="90%"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
+##### Boxplots: Distributions of Debt-to-GDP Ratios for 
+Boxplots can be useful visualizations for understanding the distribution of values for a certain feature or attribute of interest. In this case, the attribute of interest is the Debt-to-GDP ratio. Boxplots make interpreting the distribution easy: to understand the spread of data, look from one tail to the other tail. The greater the distance between the ends of the tails, the greater the spread of data. In some cases, outliers are shown in the area beyond the tails. The box portion of the boxplot shows the interquartile range: the distance between the 25th and 7th percentile and all the values contained within that range. Finally, the line located somewhere between the 25th and 75th percentiles, though not necessarily directly in the middle, represents the median.
+
+I have many critiques of this visualization that I would choose to improve if the Flourish editing environment allowed me to. First, there are many boxplots shown on this chart, and ideally the user would be able to filter this chart to only show a handful of countries of interest at a time. Unfortunately, the filtering feature provided by Flourish seems to only have the ability to filter so that one category (or country) is shown at a time, or to show all countries at once.
+
+<div class="flourish-embed flourish-scatter" data-src="visualisation/3749367" data-url="https://flo.uri.sh/visualisation/3749367/embed" aria-label=""><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+
 # Contact
 Jeffrey Scanlon
 (he/him/his)
