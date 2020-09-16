@@ -23,7 +23,7 @@ This visualization is a simple bar chart to illustrate and compare the magnitude
 ##### Sparklines: Debt-to-GDP Ratios Over Time
 In this visualization, I've created a grid of line charts to show a snapshot or "sparkline" of how the debt-to-GDP ratio has changed for each country from 1995 to the present day. Each line chart has a dot representing the most recent data point on record for that country. The data used in this visualization comes from the Organization for Economic Cooperation and Development (OECD).
 
-<iframe src='https://flo.uri.sh/visualisation/3749016/embed' frameborder='0' scrolling='no' style='width:100%;height:600px;' aria-label=''></iframe><div style='width:100%!;margin-top:4px!important;text-align:right!important;'><a class='flourish-credit' href='https://public.flourish.studio/visualisation/3749016/?utm_source=embed&utm_campaign=visualisation/3749016' target='_top' style='text-decoration:none!important'><img alt='Made with Flourish' src='https://public.flourish.studio/resources/made_with_flourish.svg' style='width:105px!important;height:16px!important;border:none!important;margin:0!important;'> </a></div>
+<div class="flourish-embed flourish-chart" data-src="visualisation/3749016" data-url="https://flo.uri.sh/visualisation/3749016/embed" aria-label="" data-width="90%"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
 # Contact
 Jeffrey Scanlon
