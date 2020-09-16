@@ -14,7 +14,7 @@ In this course, I am hoping to learn how to design professional visualizations t
 # Portfolio
 Here are links to other pages where you can see samples of my work!
 
-[Telling Stories with Data -- Visualizing Government Debt](Assignment2_Government_Debt.md)
+[Telling Stories with Data -- Visualizing Government Debt](govdebt.md)
 
 
 # Contact
