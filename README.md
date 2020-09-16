@@ -12,7 +12,9 @@ During my time at Heinz, I have had the opportunity to apply my new skills in ma
 In this course, I am hoping to learn how to design professional visualizations that are appropriate for the audience and the context of the problem. I hope to develop my skills as a data interpreter--a liaison between multiple departments within an organization, able to communicate not only technical and stastistical concepts but also strategic business and organizational insights. I hope to be able to use data to convey ideas that are not only compelling, but also honest, holisitic, and novel.
 
 # Portfolio
-Here's where all of my nice data visualizations will go.
+Here are links to other pages where you can see samples of my work!
+
+[Telling Stories with Data -- Visualizing Government Debt](Assignment2_Government_Debt.md)
 
 
 # Contact
