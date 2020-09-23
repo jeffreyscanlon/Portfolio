@@ -56,3 +56,8 @@ Mark C: "I see this chart as the reinvestments netting the 30k jobs over the nex
 
 Darren G: "I see that this is showing predicted job gains and losses, so if it is a prediction model I would want to know what assumptions are being made for that model. I also see that there is a very big dip at first, so I'd want to know what is causing that dip? It seems to be showing that there will be more job gains than losses, saying that these are the gains we will get if we implement this. So I'm also wondering how does this strategy mitigate net losses? I also think the losses should be red instead of dark black or green, and the dotted line should be red. Although I do think for this graph my initial attention was drawn to the gains because of the light green so I don't know if that was your intention."
 
+Summary:
+
+## Step 5: Final Solution
+![image](https://user-images.githubusercontent.com/70919897/94062212-62b21500-fdb4-11ea-811e-64c2b4a1bf4c.png)
+![image](https://user-images.githubusercontent.com/70919897/94062375-95f4a400-fdb4-11ea-8447-99909bd9c694.png)
