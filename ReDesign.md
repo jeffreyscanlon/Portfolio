@@ -21,32 +21,25 @@ The visualization I have chosen comes from a presentation created by the Pennsyl
 ![image](https://user-images.githubusercontent.com/70919897/94050289-0e9f3480-fda4-11ea-9851-70b230017bbd.png)
 
 ## Step 2: Critique
-**Usefulness**
-
+**Usefulness.**
 Unfortunately, this visualization isn't very useful. Part of the reason for this is that it is incomplete (as I will discuss next), but part of the reason is also because there is simply too much going on. There are far too many colors and too many categories to be able see some of the important takeaways from this visualization. One effect of including too many categories is that those categories with small corresponding values are nearly invisible because the bars are so thin. Thus, it is essentially useless to include them on their own.
 
-**Completeness**
-
+**Completeness.**
 Another key issue in this visualization is that there is simply missing information. The X and Y axes are not labelled, so while a well-informed reader might be able to guess and have a chance of interpretting correctly, this is an unnecessary risk. Likewise, the legend mislabels the categories as "Series," a default setting from Microsoft Excel, and does not reveal their true meaning.
 
-**Perceptibility**
-
+**Perceptibility.**
 This visualization also receives low ratings on perceptibility for my critique. There are a few reasons for this. First, the extreme use of color and cross-hatch pattern serves to distract and confuse the eye, rather than highlight the key trends the author is hoping to illustrate. Secondly, it is very hard to estimate the actual size of most of the bars because they are stacked (which means you have to subtract the one end of a bar from the other to understand the true amount) and because many of the bars are very small.
 
-**Truthfulness**
-
+**Truthfulness.**
 This visualization received a perfect score for my critique on truthfulness. This is because the authors intentionally decided to include **all** of the information they could, to a fault. In fact, it is this decision to be 100% transparent with the data and show the data in all of its granularity that harms the effectiveness of the visualization so much.
 
-**Intuitiveness**
-
+**Intuitiveness.**
 For many of the same reasons listed above, this visualization receives a low rating for intuitiveness. Additionally, the dashed line may be easily misunderstood or misinterpretted, as was revealed to me when getting feedback on my redesign. Thus, the author could find a way to redesign the net gains or losses in a way that is less prone to misinterpretation.
 
-**Aesthetics**
-
+**Aesthetics.**
 The visualization receives low marks for aesthetics. The extreme use of color and cross-hatching is jarring to the eye and fails to draw the reader in.
 
-**Engagement**
-
+**Engagement.**
 This visualization might have somewhat higher marks for engagement than for aesthetics because if I reader were to spend a longer amount of time with this visualization, they would likely be able to start to identify different trends and notice more features. However, since the context of this visualization is a presentation, it is unlikely that readers will have the opportunity to spend much time doing this.
 
 ## Step 3: Wireframing
