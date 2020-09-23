@@ -48,7 +48,9 @@ This visualization might have somewhat higher marks for engagement than for aest
 
 I asked four friends for feedback on the wireframe redesign. Here is what they said:
 
+<div class="bg-blue-light mb-2">
 Melissa C: "I think at first the graph is trying to show the number of jobs that will e created over the next 5 years and then a drop in the number of jobs. Then a steady increase over a decade or so. However, there is still a large number of jobs lost even though there are gains, so the net really doesn't represent the drop, it's more about the number of jobs being created vs the number of jobs lost. So it looks like a decline around 2025 but it is more that there are more jobs lost than gained."
+</div>
 
 Kelsey P: "The graph seems to be promoting the RGGI investments and showing that while there will be both job loss and creation, there will be more job creation over the course of the next several years."
 
