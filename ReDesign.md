@@ -43,6 +43,7 @@ The visualization receives low marks for aesthetics. The extreme use of color an
 This visualization might have somewhat higher marks for engagement than for aesthetics because if I reader were to spend a longer amount of time with this visualization, they would likely be able to start to identify different trends and notice more features. However, since the context of this visualization is a presentation, it is unlikely that readers will have the opportunity to spend much time doing this.
 
 ## Step 3: Wireframing
+![image](https://user-images.githubusercontent.com/70919897/94087030-af104b80-fdda-11ea-9c12-3e1944df1aa2.png)
 
 ## Step 4: Test the Solution
 
