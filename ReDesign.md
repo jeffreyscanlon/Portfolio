@@ -58,6 +58,15 @@ For the wireframing, I focused only on solving the first objective (listed above
 
 ![trytry](https://user-images.githubusercontent.com/70919897/94090971-07e4e180-fde5-11ea-97db-f197dea0eb58.jpg)
 
+I considered using pie charts to show the proportions of RGGI impacts responsible for job losses or job gains. I found that there were too many categories that had a small contribution, like the original visualization.
+![image](https://user-images.githubusercontent.com/70919897/94092195-1b457c00-fde8-11ea-9088-a4297d81bbd1.png)
+
+I also considered using area charts rather than a line chart to show the net change in job numbers (gains or losses) from year to year.
+![image](https://user-images.githubusercontent.com/70919897/94092242-3617f080-fde8-11ea-88f1-0cec52f5cec4.png)
+
+I then modified the area chart to be a cumulative total of all job gains and losses, rather than only showing net change per year.
+![image](https://user-images.githubusercontent.com/70919897/94092267-48922a00-fde8-11ea-80d1-68124f7fa33c.png)
+
 
 ## Step 4: Test the Solution
 
@@ -79,8 +88,14 @@ Mark C: "I see this chart as the reinvestments netting the 30k jobs over the nex
 Darren G: "I see that this is showing predicted job gains and losses, so if it is a prediction model I would want to know what assumptions are being made for that model. I also see that there is a very big dip at first, so I'd want to know what is causing that dip? It seems to be showing that there will be more job gains than losses, saying that these are the gains we will get if we implement this. So I'm also wondering how does this strategy mitigate net losses? I also think the losses should be red instead of dark black or green, and the dotted line should be red. Although I do think for this graph my initial attention was drawn to the gains because of the light green so I don't know if that was your intention."
 </div>
 
-Summary:
+**Takeaways from feedback:**
+1.) There was still confusion around the dashed line representing net change in job numbers. My friends were focusing too much on whether this line was increasing or decreasing (which, to be fair, is important), but they seemed to be somewhat neglecting the idea that whether this line is in the negative zone or positive zone is also important. For example, one friend was concerned about the portion of the line that was decreasing from 2025 to 2026. The decreasing line over this range was concerning for my friend even though this line was on the positive portion of the graph. In other words, in both 2025 and 2026, more jobs were added than were lost. The *amount* of jobs added was decreasing, but jobs were still being added more than they were being lost. Because of this confusion, I ultimately decided to follow the advice of my friend Mark, who suggested using a cumulative total rather than the yearly net change. He also accurately identified that the cumulative total would better illustrate the "30,000 added jobs" alluded to in the title, which would enhance the effectiveness.
+
+2.) I decided to change the color scheme based on the comments of my friends. While I was originally trying to avoid the "red, green" dichotomy, I think avoiding this was foolish of me because ultimately this is the color scheme that people are expecting when dealing with gains and losses.
+
+3.) I decided to add two supplemental pie charts to show the total contributions (proportions) of types of RGGI impacts on total gains and losses. I felt that providing this snapshot from the year 2030 would provide just a little more context to some of my friends (and all future viewers of the data) who might be curious to know more about what is driving these gains and losses, without burdening them with too much detail.
 
 ## Step 5: Final Solution
 ![image](https://user-images.githubusercontent.com/70919897/94062212-62b21500-fdb4-11ea-811e-64c2b4a1bf4c.png)
 ![image](https://user-images.githubusercontent.com/70919897/94062375-95f4a400-fdb4-11ea-8447-99909bd9c694.png)
+As you can see, I implemented the three pieces of feedback that were summarized in the previous step. I tried to use a cohesive color scheme between the three different graphs to try to express the idea that these are all connected as part of one larger story. I also made the choice to use the titles to communicate the key takeaways from each graph. I believe these titles connect back to the two objectives I described in the wireframing step. Those objectives were: 1.) to illustrate that RGGI will create many more jobs than it will lose them and 2.) to convey some information as to which impacts play the largest role in driving these gains and losses. To better accomplish objective #2, I also made the decision to group some of the RGGI impacts that had relatively small contributions to job change. For example, I grouped "Fossil Energy Efficiency" and "Electric Energy Efficiency" into one group: Energy Efficiency. I also made a group called "Other" from some smaller, miscellaneous impact categories.
