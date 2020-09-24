@@ -14,11 +14,10 @@ In this course, I am hoping to learn how to design professional visualizations t
 # Portfolio
 Here are links to other pages where you can see samples of my work!
 
-[Telling Stories with Data -- Visualizing Government Debt](govdebt.md)
-
+[Telling Stories with Data -- Visualizing Government Debt](govdebt.md)\
 [Telling Stories with Data -- Critique by Design](ReDesign.md)
 
 # Contact
-Jeffrey Scanlon
-(he/him/his)
+Jeffrey Scanlon\
+(he/him/his)\
 LinkedIn: https://www.linkedin.com/in/jeff-scanlon3/
