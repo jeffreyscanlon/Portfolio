@@ -1,6 +1,6 @@
 # Critique by Design
 In this assignment, I use Stephen Few's Data Visualization Effectiveness Profile as a framework for critiquing a data visualization.
-Acess the framework here: http://www.perceptualedge.com/articles/visual_business_intelligence/data_visualization_effectiveness_profile.pdf
+Access the framework here: http://www.perceptualedge.com/articles/visual_business_intelligence/data_visualization_effectiveness_profile.pdf
 
 Once I've competed my critique, I try my hand at wireframing a solution (or an improved version) of the visualization.
 
