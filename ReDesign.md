@@ -43,7 +43,21 @@ The visualization receives low marks for aesthetics. The extreme use of color an
 This visualization might have somewhat higher marks for engagement than for aesthetics because if I reader were to spend a longer amount of time with this visualization, they would likely be able to start to identify different trends and notice more features. However, since the context of this visualization is a presentation, it is unlikely that readers will have the opportunity to spend much time doing this.
 
 ## Step 3: Wireframing
+Before I began my wireframing redesigns, I asked myself what I thought the intended purpose of the visualization was. Knowing that the data was generated from economic modeling and that policymakers, citizens, lobbysits and more are likely to worry about the impact of RGGI on jobs, I ultimately decided the visualization was trying to communicate the following ideas:
+
+1.) That while in the short term (next 1-2 years) there would be slight to modest job loss in the state as a result of direct RGGI impacts, positive job creation is actually expected within only a few years, with a total net creation of 30,000 jobs by 2030.
+
+2.) Some audience members would likely want to know *how* RGGI is impacting jobs. Which RGGI impacts are most responsible for job gains? Which impacts are most responsible for job loss? Where the original visualization started to go wrong was that they were trying to show this data for each impact and each year, when I had a feeling that a 2030 snapshot would serve this objective better, as would lumping some of the smallest contributing impacts into one group.
+
+For the wireframing, I focused only on solving the first objective (listed above). I tried to accomplish the goal of illustrating more job losses compared to job gains by aggregating all of the gains into one category and all of the losses into another. I changed the color schemes to green and pink, as they are found on opposite sides of the color wheel and would provide strong contrast. I thought that by coloring the losses as a dark shade of green and the gains as a brighter shade of green, the gains would stand out and highlight that they are larger, overall, than the losses. I also, obviously added labels to the axes and correct labels to the updated legend.
+
+**While I tried a lot of different structures, chart types, color schemes, and formatting, the one graph shown below is the only graph that I sent to friends to feedback. I hadn't settled on some of the other options that I was playing around with, and I felt that some of the other graphs I was still working on weren't necessarily addressing the first and primary objective.**
 ![image](https://user-images.githubusercontent.com/70919897/94087030-af104b80-fdda-11ea-9c12-3e1944df1aa2.png)
+
+**Below are some other visualizations that I put together during the wireframing process. Note: These are not refined visualizations whatsoever and were not sent to friends for review.**
+
+![trytry](https://user-images.githubusercontent.com/70919897/94090971-07e4e180-fde5-11ea-97db-f197dea0eb58.jpg)
+
 
 ## Step 4: Test the Solution
 
