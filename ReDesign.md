@@ -1,5 +1,6 @@
 # Critique by Design
-In this assignment, I use Stephen Few's Data Visualization Effectiveness Profile http://www.perceptualedge.com/articles/visual_business_intelligence/data_visualization_effectiveness_profile.pdf as a framework for critiquing a data visualization.
+In this assignment, I use Stephen Few's Data Visualization Effectiveness Profile as a framework for critiquing a data visualization.
+Acess the framework here: http://www.perceptualedge.com/articles/visual_business_intelligence/data_visualization_effectiveness_profile.pdf
 
 Once I've competed my critique, I try my hand at wireframing a solution (or an improved version) of the visualization.
 
@@ -16,7 +17,10 @@ Thus far, the results for these participating states seem signficant: Since 2005
 
 RGGI has been heavily debated thus far in Pennsylvania. One argument is that because Pennsylvania is coal country, RGGI would harm the state's economy far more than any of the other states currently participating in the program. Economic models have been performed using the REMI (Regional Economic Models, Inc) framework, to forecast the impacts of joining RGGI on jobs, GDP, and personal income and to compare forecasts for three different reinvestment schemes: A Balanced Approach, Ratepayer Assistance, and General Fund.
 
-The visualization I have chosen comes from a presentation created by the Pennsylvania Department of Environmental Protection. http://files.dep.state.pa.us/Air/AirQuality/AQPortalFiles/RGGI/FINAL%20RGGI%20101%20Webinar.pdf The presentation is called "Regional Greenhouse Gas Iniatitive: RGGI 101: How it Works and How it Benefits Pennsylvanians". The visualization I have selected comes from Slide 30 of this presentation, and is shown below: 
+The visualization I have chosen comes from a presentation created by the Pennsylvania Department of Environmental Protection. The presentation is called "Regional Greenhouse Gas Iniatitive: RGGI 101: How it Works and How it Benefits Pennsylvanians". 
+Access the presentation here: http://files.dep.state.pa.us/Air/AirQuality/AQPortalFiles/RGGI/FINAL%20RGGI%20101%20Webinar.pdf 
+
+The visualization I have selected comes from Slide 30 of this presentation, and is shown below: 
 
 ![image](https://user-images.githubusercontent.com/70919897/94050289-0e9f3480-fda4-11ea-9851-70b230017bbd.png)
 
