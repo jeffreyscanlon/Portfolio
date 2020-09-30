@@ -36,7 +36,7 @@ However, the majority of respondents (83%) also said that political, racial, and
 There is a body of evidence that most of us live in ideological silos. We surround ourselves with those who we feel share the same ideologies.
 Both 77% of Trump supporters and 77% of Biden supporters self-report that they have "just a few" or no friends who support the other candidate.
 
-[IMAGE]
+![image](https://user-images.githubusercontent.com/70919897/94740850-46c4eb00-0341-11eb-8812-1ca7abe1dd52.png)
 
 3. Visualization -- Why this matters: Polarization prejudices and dehumanizes<br>
 Survey respondents are more likely to see members of opposing political parties as possessing negative qualities, including being:
