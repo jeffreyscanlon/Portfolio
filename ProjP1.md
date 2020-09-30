@@ -71,3 +71,7 @@ Define positive intergroup contact as experiences in which people get to interac
 Define social perspective taking as the willingness and ability to infer and consider the perspectives of others who are unlike you.
 
 3. Strategy 3 -- Reassociation Stereotype Replacement
+
+## Data Sources
+
+## Method and Medium
