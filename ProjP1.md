@@ -30,7 +30,7 @@ A series of visualizations that illustrate that capture the scope and effects of
 A large majority of survey respondents (85%) say that compromise and common ground should be the goal for political leaders.
 However, the majority of respondents (83%) also said that political, racial, and class divisions are getting worse and our national dialogue is breaking down.
 
-[IMAGE]
+![image](https://user-images.githubusercontent.com/70919897/94736829-da46ed80-033a-11eb-8d25-9f9fa9572e1c.png)
 
 2. Visualization -- No, it's not just "them."<br>
 There is a body of evidence that most of us live in ideological silos. We surround ourselves with those who we feel share the same ideologies.
