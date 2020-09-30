@@ -48,7 +48,7 @@ Survey respondents are more likely to see members of opposing political parties 
 They feel that, politics aside, the other party largely does not share their values and goals.<br>
 There has been growth over the past four years in the percentage of respondents who feel "very cold" towards the opposing party.
 
-[IMAGE]
+![image](https://user-images.githubusercontent.com/70919897/94751321-4420c080-0356-11eb-9705-23023d76b8d5.png)
 
 4. Visualization -- Why this matters: Unrest and even...civil war?<br>
 In October 2019, survey respondents gave an average rating of 67 on political polarization, on a range of 0 to 100, with 0 representing no polarization and 100 representing extreme polarization on the brink of civil war.
