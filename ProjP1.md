@@ -40,8 +40,12 @@ Both 77% of Trump supporters and 77% of Biden supporters self-report that they h
 
 3. Visualization -- Why this matters: Polarization prejudices and dehumanizes<br>
 Survey respondents are more likely to see members of opposing political parties as possessing negative qualities, including being:
-close-minded, unintelligent, immoral, lazy, unpatriotic.
-They feel that, politics aside, the other party largely does not share their values and goals.
+- close-minded
+- unintelligent
+- immoral
+- lazy
+- unpatriotic<br>
+They feel that, politics aside, the other party largely does not share their values and goals.<br>
 There has been growth over the past four years in the percentage of respondents who feel "very cold" towards the opposing party.
 
 [IMAGE]
