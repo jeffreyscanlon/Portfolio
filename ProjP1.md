@@ -74,18 +74,18 @@ Define social perspective taking as the willingness and ability to infer and con
 
 ## Data Sources
 
-**Data Sources for Polarization**
+**Data Sources for Polarization**<br>
 My data sources for polarization come from the Institute of Politics and Public Service at Georgetown University and from the Pew Research Center. The data sets I will be using come from polls that each of these groups administer. Links to these data sources are found below.
 
 I may also try to tie in data from social media platforms (e.g. Twitter or Facebook) or data about polarization in Congress (e.g. from the Congressional Research Service) if I feel that this would improve the story that I am telling. However, so far I have not found a relevant data set from any of these sources that add anything meaningful to this story, so I have thus far refrained from doing so.
 
-https://politics.georgetown.edu/battleground-poll/
-https://www.pewresearch.org/fact-tank/2020/09/18/few-trump-or-biden-supporters-have-close-friends-who-back-the-opposing-candidate/
-https://www.pewresearch.org/politics/2020/09/10/voters-attitudes-about-race-and-gender-are-even-more-divided-than-in-2016/
-https://www.pewresearch.org/politics/2014/06/12/political-polarization-in-the-american-public/
-https://www.pewresearch.org/politics/2019/10/10/how-partisans-view-each-other/
+https://politics.georgetown.edu/battleground-poll/<br>
+https://www.pewresearch.org/fact-tank/2020/09/18/few-trump-or-biden-supporters-have-close-friends-who-back-the-opposing-candidate/<br>
+https://www.pewresearch.org/politics/2020/09/10/voters-attitudes-about-race-and-gender-are-even-more-divided-than-in-2016/<br>
+https://www.pewresearch.org/politics/2014/06/12/political-polarization-in-the-american-public/<br>
+https://www.pewresearch.org/politics/2019/10/10/how-partisans-view-each-other/<br>
 
-**Data Sources for Solutions**
+**Data Sources for Solutions**<br>
 My data sources for social or behavioral interventions or strategies that can be implemented to begin to heal the ideological divides come largely from publications made by social and behavioral science researchers in academic journals. These researchers have conducted controlled experiments and their findings indicate that these strategies have a positive impact on reducing social conflict and tension.
 
 
