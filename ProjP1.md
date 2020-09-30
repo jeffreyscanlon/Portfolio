@@ -26,19 +26,19 @@ The reader will participate in some form of reflection activity to get them thin
 ### Problem Statement:
 A series of visualizations that illustrate that capture the scope and effects of polarization in the United States.
 
-1. Visualization -- Our aspirations vs. our reality
+1. Visualization -- Our aspirations vs. our reality<br>
 A large majority of survey respondents (85%) say that compromise and common ground should be the goal for political leaders.
 However, the majority of respondents (83%) also said that political, racial, and class divisions are getting worse and our national dialogue is breaking down.
 
 [IMAGE]
 
-2. Visualization -- No, it's not just "them."
+2. Visualization -- No, it's not just "them."<br>
 There is a body of evidence that most of us live in ideological silos. We surround ourselves with those who we feel share the same ideologies.
 Both 77% of Trump supporters and 77% of Biden supporters self-report that they have "just a few" or no friends who support the other candidate.
 
 [IMAGE]
 
-3. Visualization -- Why this matters: Polarization prejudices and dehumanizes
+3. Visualization -- Why this matters: Polarization prejudices and dehumanizes<br>
 Survey respondents are more likely to see members of opposing political parties as possessing negative qualities, including being:
 close-minded, unintelligent, immoral, lazy, unpatriotic.
 They feel that, politics aside, the other party largely does not share their values and goals.
@@ -46,7 +46,7 @@ There has been growth over the past four years in the percentage of respondents 
 
 [IMAGE]
 
-4. Visualization -- Why this matters: Unrest and even...civil war?
+4. Visualization -- Why this matters: Unrest and even...civil war?<br>
 In October 2019, survey respondents gave an average rating of 67 on political polarization, on a range of 0 to 100, with 0 representing no polarization and 100 representing extreme polarization on the brink of civil war.
 By August of 2020, this average rating increased 6 points to 73.
 
@@ -62,12 +62,12 @@ I may also make reference to the role of social media and how anonymity and digi
 ### What can I do?
 In this section, I will provide a series of visualizations that illustrate the effectiveness of social and behavioral strategies or interventions that each of us can practice in order to practice empathy and begin healing the strong ideological divides.
 
-1. Strategy 1 -- Positive Intergroup Contact can reduce our prejudices and ease tensions.
+1. Strategy 1 -- Positive Intergroup Contact can reduce our prejudices and ease tensions.<br>
 Define positive intergroup contact as experiences in which people get to interact and connect with people who are different from them and from most of their normal contacts. (This can mean ideologically different, or differnt in terms of race, gender, sexual orientation, class, religion, and more.)
 
 [IMAGE SHOWING REDUCTIONS IN PREJUDICES FOR THOSE IN CONTROLLED EXPERIMENT WHO PARTICIPATED IN INTERGROUP CONTACT]
 
-2. Strategy 2 -- Social Perspective Taking helps us humanize others and makes us more likely to seek out intergroup contact.
+2. Strategy 2 -- Social Perspective Taking helps us humanize others and makes us more likely to seek out intergroup contact.<br>
 Define social perspective taking as the willingness and ability to infer and consider the perspectives of others who are unlike you.
 
 3. Strategy 3 -- Reassociation Stereotype Replacement
