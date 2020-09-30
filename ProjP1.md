@@ -9,7 +9,7 @@ Spoiler Alert: Yes, there is always hope! In this project I will give you three 
 
 ## Draft of Story Arc:
 
-[IMAGE]
+![image](https://user-images.githubusercontent.com/70919897/94738344-47f41900-033d-11eb-9e75-fe865ddbfac5.png)
 
 ## Outline:
 ### Possible Title:
