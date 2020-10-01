@@ -67,14 +67,27 @@ I may also make reference to the role of social media and how anonymity and digi
 In this section, I will provide a series of visualizations that illustrate the effectiveness of social and behavioral strategies or interventions that each of us can practice in order to practice empathy and begin healing the strong ideological divides.
 
 1. Strategy 1 -- Positive Intergroup Contact can reduce our prejudices and ease tensions.<br>
-Define positive intergroup contact as experiences in which people get to interact and connect with people who are different from them and from most of their normal contacts. (This can mean ideologically different, or differnt in terms of race, gender, sexual orientation, class, religion, and more.)
+Define positive intergroup contact as experiences in which people get to interact and connect with people who are different from them and from most of their normal contacts. (This can mean ideologically different, or differnt in terms of race, gender, sexual orientation, class, religion, and more.) <br>
+*Note:* In the image below, I want to make the entire space between the upper and lower bounds a gray color to represent that entire area as the 95% confidence interval. However, I was not sure how to implement something like this in Excel.
 
 ![image](https://user-images.githubusercontent.com/70919897/94759173-3165b600-036d-11eb-92d6-67390c9ef846.png)
 
 2. Strategy 2 -- Social Perspective Taking helps us humanize others and makes us more likely to seek out intergroup contact.<br>
 Define social perspective taking as the willingness and ability to infer and consider the perspectives of others who are unlike you.
 
-3. Strategy 3 -- Reassociation Stereotype Replacement
+![image](https://user-images.githubusercontent.com/70919897/94760777-725fc980-0371-11eb-8f71-019ec00376ae.png)
+
+3. Strategy 3 -- Reassociation/Stereotype Replacement <br>
+Define stereotype replacement as a simple three-step process of 1) becoming aware of your implicit biases 2) being concerned about the consequences of them and 3) predicting when biases are likely to surface and replacing biased reponses with responses consistent with your goals. Implementing this strategy has been shown to produce "enduring reductions in implicit bias."
+
+![image](https://user-images.githubusercontent.com/70919897/94761485-2877e300-0373-11eb-8d1d-fb62acb19665.png)
+
+### Call to Action
+In this section, I will briefly provide the readers (or audience) with a fewer magical gifts (resources, activities) where they can practice and implement each of these strategies.
+
+Gift #1 -- One Small Step from StoryCorps (a means to begin intentional and positive intergroup contact) <br>
+Gift #2 -- An activity in perspective taking and directions for how to complete it<br>
+Gift #3 -- A link to Harvard's Implicit Association Test (with a primer on what it can be used for) <br>
 
 ## Data Sources
 
@@ -94,6 +107,10 @@ https://www.pewresearch.org/politics/2019/10/10/how-partisans-view-each-other/<b
 My data sources for social or behavioral interventions or strategies that can be implemented to begin to heal the ideological divides come largely from publications made by social and behavioral science researchers in academic journals. These researchers have conducted controlled experiments and their findings indicate that these strategies have a positive impact on reducing social conflict and tension.
 
 In these publications, there are sometimes visualizations as well. However, they are often very scientific (complicated tables with too many columns and rows, or graphs with error bars, asterisks for signficance levels, small font for captions and titles, and other stylistic choices that are generally not great for a general audience).
+
+https://science.sciencemag.org/content/352/6282/220
+https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0085681
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3603687/
 
 ## Method and Medium
 My plan for this project is to use data from these various sources to simplify some of the visualizations and to redesign the visualizations in different ways. I plan to use Tableau to produce these redesigned visualizations. Then, I plan to publish these visualizations to Shorthand for a scrollable interface for users to interact with.
