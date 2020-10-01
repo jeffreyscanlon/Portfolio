@@ -79,10 +79,11 @@ Define social perspective taking as the willingness and ability to infer and con
 ## Data Sources
 
 **Data Sources for Polarization**<br>
-My data sources for polarization come from the Institute of Politics and Public Service at Georgetown University and from the Pew Research Center. The data sets I will be using come from polls that each of these groups administer. Links to these data sources are found below.
+My data sources for polarization come from the Institute of Politics and Public Service at Georgetown University and from the Pew Research Center. The data sets I will be using come from polls that each of these groups administer. Links to these data sources are found below. Both the Institute of Politices and Public Service and Pew Research Center have already utilized their respective poll data to create charts, figures, and visualizations of the data. However, the visualizations from Pew tend to be very detailed (feature many categories and panels), and I do not feel these visualizations are very helpful for a general population audience. Therefore, I will work to simplify these visualizations so that the story they communicate is very clear right away, and to also bring these diverse visualizations into a common color scheme and theme.
 
 I may also try to tie in data from social media platforms (e.g. Twitter or Facebook) or data about polarization in Congress (e.g. from the Congressional Research Service) if I feel that this would improve the story that I am telling. However, so far I have not found a relevant data set from any of these sources that add anything meaningful to this story, so I have thus far refrained from doing so.
 
+*Links:*<br>
 https://politics.georgetown.edu/battleground-poll/<br>
 https://www.pewresearch.org/fact-tank/2020/09/18/few-trump-or-biden-supporters-have-close-friends-who-back-the-opposing-candidate/<br>
 https://www.pewresearch.org/politics/2020/09/10/voters-attitudes-about-race-and-gender-are-even-more-divided-than-in-2016/<br>
@@ -92,9 +93,9 @@ https://www.pewresearch.org/politics/2019/10/10/how-partisans-view-each-other/<b
 **Data Sources for Solutions**<br>
 My data sources for social or behavioral interventions or strategies that can be implemented to begin to heal the ideological divides come largely from publications made by social and behavioral science researchers in academic journals. These researchers have conducted controlled experiments and their findings indicate that these strategies have a positive impact on reducing social conflict and tension.
 
-
-
-
-
+In these publications, there are sometimes visualizations as well. However, they are often very scientific (complicated tables with too many columns and rows, or graphs with error bars, asterisks for signficance levels, small font for captions and titles, and other stylistic choices that are generally not great for a general audience).
 
 ## Method and Medium
+My plan for this project is to use data from these various sources to simplify some of the visualizations and to redesign the visualizations in different ways. I plan to use Tableau to produce these redesigned visualizations. Then, I plan to publish these visualizations to Shorthand for a scrollable interface for users to interact with.
+
+Ideally, I would like to produce a moodboard and a style board before turning the rough drafts of the visualizations (found above) into final drafts. As of right now, I think my color scheme will focus primarily on a bright blue, and that I will refrain from adding more colors unless I absolutely need to. I decided to go with the bright blue for a couple reasons. First, this is a color that I see used a lot in many professional visualizations, including frequent use in our Good Charts Workbook by Professor Goranson. Additionally, since my topic involves political polarization and partisanship, I wanted to avoid using a navy and red color scheme so as not to confuse readers by making them think I am referencing Democrats and Republicans when this is really not the intention of the visualization. I also am trying to avoid using green and red because I am not necessarily trying to communicate judgements about good or bad, especially in regards to the statistics pertaining to different political parties. In general, I am not trying to draw contrasts with this story but rather to inspire people to see similarity, and I think the single use of blue and a few shades of blue, as well as a sparse use of yellow, may be able to communicate this.
