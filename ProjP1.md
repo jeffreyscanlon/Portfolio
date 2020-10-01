@@ -108,9 +108,9 @@ My data sources for social or behavioral interventions or strategies that can be
 
 In these publications, there are sometimes visualizations as well. However, they are often very scientific (complicated tables with too many columns and rows, or graphs with error bars, asterisks for signficance levels, small font for captions and titles, and other stylistic choices that are generally not great for a general audience).
 
-https://science.sciencemag.org/content/352/6282/220
-https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0085681
-https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3603687/
+https://science.sciencemag.org/content/352/6282/220 <br>
+https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0085681 <br>
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3603687/ <br>
 
 ## Method and Medium
 My plan for this project is to use data from these various sources to simplify some of the visualizations and to redesign the visualizations in different ways. I plan to use Tableau to produce these redesigned visualizations. Then, I plan to publish these visualizations to Shorthand for a scrollable interface for users to interact with.
