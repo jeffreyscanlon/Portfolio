@@ -15,7 +15,8 @@ In this course, I am hoping to learn how to design professional visualizations t
 Here are links to other pages where you can see samples of my work!
 
 [Telling Stories with Data -- Visualizing Government Debt](govdebt.md)\
-[Telling Stories with Data -- Critique by Design](ReDesign.md)
+[Telling Stories with Data -- Critique by Design](ReDesign.md)\
+[Telling Stories with Data -- Project: Part 1](ProjP1.md)
 
 # Contact
 Jeffrey Scanlon\
