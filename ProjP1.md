@@ -54,7 +54,7 @@ There has been growth over the past four years in the percentage of respondents 
 In October 2019, survey respondents gave an average rating of 67 on political polarization, on a range of 0 to 100, with 0 representing no polarization and 100 representing extreme polarization on the brink of civil war.
 By August of 2020, this average rating increased 6 points to 73.
 
-[IMAGE]
+![image](https://user-images.githubusercontent.com/70919897/94759196-40e4ff00-036d-11eb-819e-4657d6d2769e.png)
 
 ### What Have We Tried?
 *I will not include this section in my presentation, but I made include it as supplemental information on my website.* <br>
@@ -69,7 +69,7 @@ In this section, I will provide a series of visualizations that illustrate the e
 1. Strategy 1 -- Positive Intergroup Contact can reduce our prejudices and ease tensions.<br>
 Define positive intergroup contact as experiences in which people get to interact and connect with people who are different from them and from most of their normal contacts. (This can mean ideologically different, or differnt in terms of race, gender, sexual orientation, class, religion, and more.)
 
-[IMAGE SHOWING REDUCTIONS IN PREJUDICES FOR THOSE IN CONTROLLED EXPERIMENT WHO PARTICIPATED IN INTERGROUP CONTACT]
+![image](https://user-images.githubusercontent.com/70919897/94759173-3165b600-036d-11eb-92d6-67390c9ef846.png)
 
 2. Strategy 2 -- Social Perspective Taking helps us humanize others and makes us more likely to seek out intergroup contact.<br>
 Define social perspective taking as the willingness and ability to infer and consider the perspectives of others who are unlike you.
