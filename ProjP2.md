@@ -16,7 +16,7 @@ The storyboard below details the major components of my data story. However, I w
 |Understand if audience is making connection between problem and solution | Can the audience explain 1) what the solutions are 2) how the solutions will help to solve the problem and 3) what the action steps are to implement the solutions. |
 
 #### Audience Analysis
-<div class="bg-gray-light mb-2">
+<div class="bg-gray-mb-2">
 *Target Audience:* My target audience is the general population of the United States (lay-people). Importantly, this means I am not gearing my stories towards any one profession or industry, so I want to make sure I remove jargon or other forms of technical language from my story that could alienate viewers. Though this is intended for the general population, I would ideally like to target people who identify to some extent as part of one of the two major political parties. Evidence indicates that people who identify more closely or strongly with a political party are more likely to hold biases against the other party. So, while this story should be geared toward anyone with any degree of political affiliation, I would like for it to be most compelling to those who are most politically active or identify as strongly aligned to one party.
  </div>
 
