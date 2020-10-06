@@ -37,3 +37,11 @@ My goal today is to get feedback on a data story I have developed. I’m intervi
 5.	What other questions or recommendations do you have?
 
 
+### Findings
+For the sake of preventing clutter, I will simply provide a summary of the main findings from my interviews in this section.\
+For full transcripts (notes) from my interviews, you make [click here.](InterviewNotes.md)\
+
+Blah blah
+
+
+
