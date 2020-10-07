@@ -77,19 +77,19 @@ I then modified the area chart to be a cumulative total of all job gains and los
 I asked four friends for feedback on the wireframe redesign. Here is what they said:
 
 <div class="bg-blue-light mb-2">
-Melissa C: "I think at first the graph is trying to show the number of jobs that will e created over the next 5 years and then a drop in the number of jobs. Then a steady increase over a decade or so. However, there is still a large number of jobs lost even though there are gains, so the net really doesn't represent the drop, it's more about the number of jobs being created vs the number of jobs lost. So it looks like a decline around 2025 but it is more that there are more jobs lost than gained."
+M.C.: "I think at first the graph is trying to show the number of jobs that will e created over the next 5 years and then a drop in the number of jobs. Then a steady increase over a decade or so. However, there is still a large number of jobs lost even though there are gains, so the net really doesn't represent the drop, it's more about the number of jobs being created vs the number of jobs lost. So it looks like a decline around 2025 but it is more that there are more jobs lost than gained."
 </div>
 
 <div class="bg-green-light mb-2">
-Kelsey P: "The graph seems to be promoting the RGGI investments and showing that while there will be both job loss and creation, there will be more job creation over the course of the next several years."
+K.P.: "The graph seems to be promoting the RGGI investments and showing that while there will be both job loss and creation, there will be more job creation over the course of the next several years."
 </div>
 
 <div class="bg-blue-light mb-2">
-Mark C: "I see this chart as the reinvestments netting the 30k jobs over the next 10 years in a yearly focus. There will inherently be retirements, firings, and quitters thus the black bars decrease while new hires and jobs added increase to the total. The rolling sum per year of the pink should total 30k. A change that could help make 30k stand out more is to change the annual net total line to sum of total net. To show that despite decreases from tough conditions in 21 and 22, by 30 the pink line would rise to 30k would be very clear. The current magnitude of net per indivdual year doesn't seem to me to be as profound with the title as a rolling total would be."
+M.C.: "I see this chart as the reinvestments netting the 30k jobs over the next 10 years in a yearly focus. There will inherently be retirements, firings, and quitters thus the black bars decrease while new hires and jobs added increase to the total. The rolling sum per year of the pink should total 30k. A change that could help make 30k stand out more is to change the annual net total line to sum of total net. To show that despite decreases from tough conditions in 21 and 22, by 30 the pink line would rise to 30k would be very clear. The current magnitude of net per indivdual year doesn't seem to me to be as profound with the title as a rolling total would be."
 </div>
 
 <div class="bg-green-light mb-2">
-Darren G: "I see that this is showing predicted job gains and losses, so if it is a prediction model I would want to know what assumptions are being made for that model. I also see that there is a very big dip at first, so I'd want to know what is causing that dip? It seems to be showing that there will be more job gains than losses, saying that these are the gains we will get if we implement this. So I'm also wondering how does this strategy mitigate net losses? I also think the losses should be red instead of dark black or green, and the dotted line should be red. Although I do think for this graph my initial attention was drawn to the gains because of the light green so I don't know if that was your intention."
+D.G.: "I see that this is showing predicted job gains and losses, so if it is a prediction model I would want to know what assumptions are being made for that model. I also see that there is a very big dip at first, so I'd want to know what is causing that dip? It seems to be showing that there will be more job gains than losses, saying that these are the gains we will get if we implement this. So I'm also wondering how does this strategy mitigate net losses? I also think the losses should be red instead of dark black or green, and the dotted line should be red. Although I do think for this graph my initial attention was drawn to the gains because of the light green so I don't know if that was your intention."
 </div>
 
 **Takeaways from feedback:**
