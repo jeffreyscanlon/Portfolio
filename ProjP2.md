@@ -9,10 +9,6 @@ The storyboard below details the major components of my data story. However, I w
 
 ### User Research Protocol
 #### Goals and Questions
-|Goals|Questions|
-|---|---|
-|Evaluate|What|
-
 
 | Goals | Questions |
 | --- | --- |
