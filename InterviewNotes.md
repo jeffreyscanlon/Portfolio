@@ -35,7 +35,39 @@ The solutions offer different strategies to alleviate the divisions between diff
 What is the sample size of these data? How many people did they ask? Why is the reference line in Remedy #1? Why does the control group decrease after a certain amount of time in Remedy #3? The treatment group also starts to decline less rapidly there.
 
 
-#### Interview with M.C. on 10/6/2020:
+#### Interview with M.C. and A.B. on 10/6/2020:
+[Went off script a little for this interview]
+
+1. What do you think these first three visualizations are showing?
+
+M.C.: I think these graphs are all connected to the political climate today. Within friends groups, you are likely to all have the same political views and support the same candidate. This is due to the increasing coldness since four years ago. Even though coldness is increasing, people still really want common ground and compromise. 
+
+A.B.: Looking at our friend group – most of our friends work in education and education tends to be more liberal. And people working in business tend to be more conservative. So these graphs make me think about political diversity across employment groups and how those groups often determine who you are friends with. I think also polarization has become much more entrentched (since the Occupy Wall Street and Tea Party movement). So some parites that we in the past more moderate have been hijacked by more extreme groups.
+
+2. What do you think these last three visualizations are showing?
+
+M.C.: These are kind of building off the first graph where it talked about 83% agree about how polarization is worsening but 85% want people to work together. These graphs show three different ways that people can work together to achieve that goal (working together), how to make compromises and decrease polarization.
+
+A.B.: These graphs show that friend groups can have rational disagreements (instead of devolving into name-calling) you can have civilized discussions about politics and how you can, kind of, understand the other people’s perspectives. 
+
+3.	Which visualization(s) or part of the story made the most sense or was the most convincing?
+
+M.C.: Finding 1 is really compelling, because it shows that even though the majority of population believes this one thing, the majority also wants this other, contrasting thing. Remedy #3 was very easy to understand.  Also the positive contact was good—but it intrigued me why the baseline was zero.
+
+A.B.: I agree that Finding #1 was really interesting.
+
+4.	Which visualizations(s) or part of the story made the least sense or was the least convincing?
+
+M.C.: Title of Remedy #2 took me a couple of minutes to understand; I had to re-read it multiple times.
+
+A.B.: Remedy #2 was most confusing.
+
+5.	What other questions or recommendations do you have?
+
+A.B.: What would be interesting is a statistic about percentage of couples that are politically split. I am more conservative than her but I'm not a Trump supporter. I also think it's good that you are ending on an optimistic note – even though there is all of this polarization, people can make it work and have rationalized discussions and debate without wanting to kill each other.
+
+M.C.: The way they are arranged is really helpful and how they build off of each other is great. I also liked how Finding #1 starts because it starts the story off with something positive and not negative all the way. Like most people want common ground and that is a good thing.
+
 
 #### Supplemental feedback -- I also met with the course TA on 10/6/2020 and she provided helpful feedback I'd like to record here:
 - She thinks the changes made to Visualization for Finding #1 were a success -- said that in her opinion it was very clear to understand now.
