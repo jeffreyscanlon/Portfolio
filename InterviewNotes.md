@@ -5,18 +5,16 @@
 It is showing the divide about the divide. People are experiencing political isolation. The first remedy is talking about experiences with people that are from a different group than you (so Democrat/Republican). The second graph is talking about the ability of perspective-taking that allows someone to tolerate/work with someone who is different from them. The third remedy is looking at the average bias (comparing the control and …) and how this one thing can help mitigate. Oh, these are remedies. Cool. That makes more sense. You are presenting issues and then these are the three solutions.
 
 2.	Which visualization(s) or part of the story made the most sense or was the most convincing?
-
 Easiest to understand: Our Aspirations vs. Our Reality and 8 out of 10 because very straight-forward.
-Hardest to understand: Remedy #2 Perspective-taking but mostly because I don't know what perspective-taking is. I get it's an intervention and I'm also guessing you will explain it so with explanation I think I would get it faster.
+
 
 3.	Which visualizations(s) or part of the story made the least sense or was the least convincing?
+Hardest to understand: Remedy #2 Perspective-taking but mostly because I don't know what perspective-taking is. I get it's an intervention and I'm also guessing you will explain it so with explanation I think I would get it faster.
 
 4.	Can you explain how the solutions presented in this story are connected to the problem?
-
 Remedy 1 is talking about tolerance for individuals and positive intergroup contact…People from different backgrounds or different beliefs, there is poor contact with them. So intergroup contact increases contact. Perspective-taking allows for common ground and compromise and helps you feel less cold toward others. Democrat/Republic
 
 5.	What other questions or recommendations do you have?
-
 I think if you are trying to connect to people that don’t know statistics or science the terms (baseline or control might not make sense) or other terms like positive intergroup contact, but I don’t know how you would do that with graphics.
 
 #### Interview with Darren G on 10/6/2020:
