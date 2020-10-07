@@ -19,6 +19,23 @@ I think if you are trying to connect to people that don’t know statistics or s
 
 #### Interview with D.G. on 10/6/2020:
 
+1.	What do you think is the overall purpose of this story?
+To talk about the political divisions between the two parties, or the constituents that identify as democrat and republican. They don’t like each other very much and they don’t interact. The second half of the story talks about ways to potentially remedy those divisions (what steps could be taken and their impact).
+
+2.	Which visualization(s) or part of the story made the most sense or was the most convincing?
+Findings #1 and #2 were the easiest to understand and Finding #2 was new information to me so that was interesting. Finding #1 was the most compelling because it presents a stark contrast between our aspirations and our reality. This is because almost the same percentage of people agree about these two seemingly contrasting things.
+
+3.	Which visualizations(s) or part of the story made the least sense or was the least convincing?
+Remedy #2 was confusing because how is it showing that they are working across lines of difference. It only shows the number of tasks someone worked on. And Finding #3 was not convincing because it looks like people are feeling colder, but how much colder really? It doesn’t seem to be increasing that much.
+
+4.	Can you explain how the solutions presented in this story are connected to the problem?
+
+The solutions offer different strategies to alleviate the divisions between different groups and data that supports said strategy.
+
+5.	What other questions or recommendations do you have?
+What is the sample size of these data? How many people did they ask? Why is the reference line in Remedy #1? Why does the control group decrease after a certain amount of time in Remedy #3? The treatment group also starts to decline less rapidly there.
+
+
 #### Interview with M.C. on 10/6/2020:
 
 #### Supplemental feedback -- I also met with the course TA on 10/6/2020 and she provided helpful feedback I'd like to record here:
