@@ -9,6 +9,11 @@ The storyboard below details the major components of my data story. However, I w
 
 ### User Research Protocol
 #### Goals and Questions
+|Goals|Questions|
+|---|---|
+|Evaluate|What|
+
+
 | Goals | Questions |
 | --- | --- |
 |Evaluate clarity of purpose |	How clear is the purpose of this story? Is it less clear to people who are less politically active? |
@@ -39,7 +44,7 @@ My goal today is to get feedback on a data story I have developed. I’m intervi
 
 ### Findings
 For the sake of preventing clutter, I will simply provide a summary of the main findings from my interviews in this section.\
-For full transcripts (notes) from my interviews, you make [click here.](InterviewNotes.md)\
+For full transcripts (notes) from my interviews, you make [click here.](InterviewNotes.md)
 
 Blah blah
 
