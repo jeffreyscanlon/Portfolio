@@ -29,7 +29,6 @@ Findings #1 and #2 were the easiest to understand and Finding #2 was new informa
 Remedy #2 was confusing because how is it showing that they are working across lines of difference. It only shows the number of tasks someone worked on. And Finding #3 was not convincing because it looks like people are feeling colder, but how much colder really? It doesn’t seem to be increasing that much.
 
 4.	Can you explain how the solutions presented in this story are connected to the problem?
-
 The solutions offer different strategies to alleviate the divisions between different groups and data that supports said strategy.
 
 5.	What other questions or recommendations do you have?
