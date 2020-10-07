@@ -1,6 +1,6 @@
 ## User Research Protocol -- Interview Notes:
 
-#### Interview with Jenn S on 10/3/2020:
+#### Interview with J.S. on 10/3/2020:
 1.	What do you think is the overall purpose of this story?
 It is showing the divide about the divide. People are experiencing political isolation. The first remedy is talking about experiences with people that are from a different group than you (so Democrat/Republican). The second graph is talking about the ability of perspective-taking that allows someone to tolerate/work with someone who is different from them. The third remedy is looking at the average bias (comparing the control and …) and how this one thing can help mitigate. Oh, these are remedies. Cool. That makes more sense. You are presenting issues and then these are the three solutions.
 
@@ -17,9 +17,9 @@ Remedy 1 is talking about tolerance for individuals and positive intergroup cont
 5.	What other questions or recommendations do you have?
 I think if you are trying to connect to people that don’t know statistics or science the terms (baseline or control might not make sense) or other terms like positive intergroup contact, but I don’t know how you would do that with graphics.
 
-#### Interview with Darren G on 10/6/2020:
+#### Interview with D.G. on 10/6/2020:
 
-#### Interview with Melissa C on 10/6/2020:
+#### Interview with M.C. on 10/6/2020:
 
 #### Supplemental feedback -- I also met with the course TA on 10/6/2020 and she provided helpful feedback I'd like to record here:
 - She thinks the changes made to Visualization for Finding #1 were a success -- said that in her opinion it was very clear to understand now.
