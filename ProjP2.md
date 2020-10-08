@@ -42,7 +42,8 @@ My goal today is to get feedback on a data story I have developed. I’m intervi
 
 ### Findings
 For the sake of reducing screen clutter, I will simply provide a summary of the main findings from my interviews in this section.\
-To read the full transcripts (notes) from my interviews, you may [click here.](InterviewNotes.md)
+
+**To read the full transcripts (notes) from my interviews, you may [click here.](InterviewNotes.md)**
 
 Here are some common trends that came out of the interview:
 - I was pleasantly surprised to see that all of the individuals interviewed felt that Finding #1 was easy to understand, and many pointed to it as the most compelling figure. I was happy to hear this because I spent a good amount of time redesigning this visualization after getting feedback in class.
