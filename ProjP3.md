@@ -4,6 +4,7 @@ To return to earlier parts of my project, click the links below:\
 [Home Portfolio](https://jeffreyscanlon.github.io/Portfolio/)\
 [Final Project: Part 1](ProjP1.md)\
 [Final Project: Part 2](ProjP2.md)
+[Data Story: "Common Ground" by Jeff Scanlon](https://carnegiemellon.shorthandstories.com/common-ground/index.html)
 
 ### My audience
 My story is designed for the general public and for people who identify with any point along the U.S. political spectrum. More specifically, however, I hope to reach individuals who identify strongly with either the Democratic or Republican parties, as these individuals tend to be the most polarized and are most likely to demonstrate divisive actions or rhetoric. I have made several intentional decisions when designing my data story for this audience. I will note those decisions below in the order they appear within my story.
