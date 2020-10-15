@@ -3,7 +3,8 @@
 To naviagate to later parts of the final project, click one of the links below:\
 [Home Portfolio](https://jeffreyscanlon.github.io/Portfolio/)\
 [Final Project: Part 2](ProjP2.md)\
-[Final Project: Part 3](ProjP3.md)
+[Final Project: Part 3](ProjP3.md)\
+[Data Story: "Common Ground" by Jeff Scanlon](https://carnegiemellon.shorthandstories.com/common-ground/index.html)
 
 ## Summary:
 
