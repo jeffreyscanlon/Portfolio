@@ -1,8 +1,8 @@
 # Project: Part 2
 
-To navigate to other parts of the final project, click the links below:
-[Home Portfolio](https://jeffreyscanlon.github.io/Portfolio/)
-[Project: Part 1](ProjP1.md)
+To navigate to other parts of the final project, click the links below:\
+[Home Portfolio](https://jeffreyscanlon.github.io/Portfolio/)\
+[Project: Part 1](ProjP1.md)\
 [Project: Part 3](ProjP3.md)
 
 ### Storyboard
