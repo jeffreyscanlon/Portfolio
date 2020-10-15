@@ -3,7 +3,7 @@
 To return to earlier parts of my project, click the links below:\
 [Home Portfolio](https://jeffreyscanlon.github.io/Portfolio/)\
 [Final Project: Part 1](ProjP1.md)\
-[Final Project: Part 2](ProjP2.md)
+[Final Project: Part 2](ProjP2.md)\
 [Data Story: "Common Ground" by Jeff Scanlon](https://carnegiemellon.shorthandstories.com/common-ground/index.html)
 
 ### My audience
