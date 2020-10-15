@@ -1,4 +1,10 @@
 # Final Project: Part 1
+
+To naviagate to later parts of the final project, click one of the links below:\
+[Home Portfolio](https://jeffreyscanlon.github.io/Portfolio/)\
+[Final Project: Part 2](ProjP2.md)\
+[Final Project: Part 3](ProjP3.md)
+
 ## Summary:
 
 In the United States, there are many indicators pointing to one troubling reality: the country is becoming increasingly polarized. While polarization can have consequences that feel somewhat far-removed from our daily lives (for example, in congressional gridlock), I believe that people are feeling and experiencing the effects of this polarization on a daily basis in a very deep and personal way: from hateful and divisive rhetoric, to dehumanizing and “otherizing” the opposing party, to arguments with strangers over social media. My project, then, will address the following questions: <br>
