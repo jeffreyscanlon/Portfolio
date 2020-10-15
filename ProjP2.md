@@ -1,5 +1,10 @@
 # Project: Part 2
 
+To navigate to other parts of the final project, click the links below:
+[Home Portfolio](https://jeffreyscanlon.github.io/Portfolio/)
+[Project: Part 1](ProjP1.md)
+[Project: Part 3](ProjP3.md)
+
 ### Storyboard
 
 The storyboard below details the major components of my data story. However, I will likely add a few additional/supplmental data visualizations that are not depicted on this story board. Something that I might be able to learn from my User Research is which parts of the story might benefit from supplemental material because the story is confusing or uncompelling in certain places. During my Uer Research, I hope to identify which areas are leaving the strongest impression with my readers and which areas need to be improved. For those who have been following along, you may notice a few changes to some of the visualizations in this storyboard. For example, Findings #1 and #2 are probably the most noticeable changes from the rough outline I posted last week (see Project: Part 1). I redesigned these visualizations based on feedback I received from my peers during a small group activity in my Telling Stories with Data Class. I also made some changes to Finding #3 and Remedy #1, though these changes may be somewhat less obvious. With these improvements made, I am excited to get a new round of feedback from my interviewees!
