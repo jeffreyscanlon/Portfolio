@@ -21,6 +21,6 @@ I also tried to use consisent background color for all of my visualizations: bla
 
 Overall, I am pretty happy with this data story. If I had another week or two, there are certainly things that I would spend a little more time tweaking and adjusting, and there are potentially other data sources I would like to add. For example, Pew has a really great visualization that shows how the distributions of the Democratic and Republican parties have shifted away from each other since 1994. However, I was not able to find the actual data necessary for me to redesign this visualization and make it suitable for my story. However, I think with a little more digging, I might be able to find this data.
 
-I hope you enjoy my data story. Please take a look for yourself:/
+I hope you enjoy my data story. Please take a look for yourself:\
 [Final Project: "Common Ground" by Jeff Scanlon](https://carnegiemellon.shorthandstories.com/common-ground/index.html)
 
