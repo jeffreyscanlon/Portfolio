@@ -19,6 +19,7 @@ Here are links to other pages where you can see samples of my work!
 [Telling Stories with Data -- Project: Part 1](ProjP1.md)\
 [Telling Stories with Data -- Project: Part 2](ProjP2.md)\
 [Telling Stories with Data -- Project: Part 3](ProjP3.md)
+[Data Story: "Common Ground", by Jeff Scanon](https://carnegiemellon.shorthandstories.com/common-ground/index.html)
 
 
 # Contact
