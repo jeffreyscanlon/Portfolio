@@ -1,6 +1,6 @@
-# Welcome to Jeffrey's Portfolio!
-This is Jeffrey's public portfolio for the Telling Stories with Data class at CMU!
+# Welcome to Jeffrey's Portfolio
 
+Thank you for visiting my portfolio! This site may be updated frequently./
 Link to live site: https://jeffreyscanlon.github.io/Portfolio/
 
 # About me
