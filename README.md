@@ -1,6 +1,6 @@
 # Welcome to Jeffrey's Portfolio
 
-Thank you for visiting my portfolio! This site may be updated frequently./
+Thank you for visiting my portfolio! This site may be updated frequently.\
 Link to live site: https://jeffreyscanlon.github.io/Portfolio/
 
 # About me
