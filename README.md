@@ -1,7 +1,7 @@
 # Welcome to Jeffrey's Portfolio
 
 Thank you for visiting my portfolio! This site may be updated frequently.\
-Link to live site: https://jeffreyscanlon.github.io/Portfolio/
+[Link to live site!](https://jeffreyscanlon.github.io/Portfolio/)
 
 ![136088121_3634289456658454_7894852083717292539_n](https://user-images.githubusercontent.com/70919897/106027214-adaca380-6098-11eb-9adc-60f684e9ab86.jpg)
 
@@ -18,7 +18,7 @@ Here are links to other pages where you can see samples of my work!
 
 
 ## Telling Stories with Data
-**[Final Project: Data Story -- "Common Ground", by Jeff Scanon](https://carnegiemellon.shorthandstories.com/common-ground/index.html)**\
+**[Final Project: "Common Ground", by Jeff Scanon](https://carnegiemellon.shorthandstories.com/common-ground/index.html)**\
 [Telling Stories with Data -- Visualizing Government Debt](govdebt.md)\
 [Telling Stories with Data -- Critique by Design](ReDesign.md)\
 [Telling Stories with Data -- Project: Part 1](ProjP1.md)\
