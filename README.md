@@ -14,12 +14,21 @@ In this course, I am hoping to learn how to design professional visualizations t
 # Portfolio
 Here are links to other pages where you can see samples of my work!
 
+
+## Telling Stories with Data
+**[Final Project: Data Story -- "Common Ground", by Jeff Scanon](https://carnegiemellon.shorthandstories.com/common-ground/index.html)**
 [Telling Stories with Data -- Visualizing Government Debt](govdebt.md)\
 [Telling Stories with Data -- Critique by Design](ReDesign.md)\
 [Telling Stories with Data -- Project: Part 1](ProjP1.md)\
 [Telling Stories with Data -- Project: Part 2](ProjP2.md)\
 [Telling Stories with Data -- Project: Part 3](ProjP3.md)\
-[Data Story: "Common Ground", by Jeff Scanon](https://carnegiemellon.shorthandstories.com/common-ground/index.html)
+
+
+## Geographic Information Systems (GIS)
+**[Flooding and Resilience on the Louisiana Coast](https://arcg.is/KSajO)**
+[Air Quality and Asthma in Allegheny County, Pennsylvania](https://arcg.is/1W4iXm)
+[School Choice in New York City](https://arcg.is/0SDbWS)
+[Payoffs of Higher Education](https://arcg.is/1CzqqL)
 
 
 # Contact
