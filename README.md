@@ -35,5 +35,5 @@ Here are links to other pages where you can see samples of my work!
 
 # Contact
 Jeffrey Scanlon\
-(he/him/his)\
-LinkedIn: https://www.linkedin.com/in/jeff-scanlon3/
+Pronouns: he/him/his\
+[LinkedIn Page](https://www.linkedin.com/in/jeff-scanlon3/)
