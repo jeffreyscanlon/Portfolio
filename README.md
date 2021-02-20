@@ -36,6 +36,8 @@ Here are links to other pages where you can see samples of my work!
 [School Choice in New York City](https://arcg.is/0SDbWS)\
 [Payoffs of Higher Education](https://arcg.is/1CzqqL)
 
+## R Shiny for Web Applications
+**[Voting Rights and Voting Policies](http://jeffrey-scanlon.shinyapps.io/VotingRights)**\
 
 # Contact
 Jeffrey Scanlon\
