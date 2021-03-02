@@ -34,7 +34,7 @@ Here are links to other pages where you can see samples of my work!
 [General Python Repository](https://github.com/jeffreyscanlon/Python)
 
 ## Telling Stories with Data
-**[Final Project: "Common Ground", by Jeff Scanon](https://carnegiemellon.shorthandstories.com/common-ground/index.html)**\
+**[Final Project: "Common Ground"](https://carnegiemellon.shorthandstories.com/common-ground/index.html)**\
 [Telling Stories with Data -- Visualizing Government Debt](govdebt.md)\
 [Telling Stories with Data -- Critique by Design](ReDesign.md)\
 [Telling Stories with Data -- Project: Part 1](ProjP1.md)\
