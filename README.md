@@ -35,7 +35,8 @@ Here are links to other pages where you can see samples of my work!
 [Payoffs of Higher Education](https://arcg.is/1CzqqL)
 
 ## R Shiny for Web Applications
-**[Voting Rights and Voting Policies](http://jeffrey-scanlon.shinyapps.io/VotingRights)**
+**[Voting Rights and Voting Policies](http://jeffrey-scanlon.shinyapps.io/VotingRights)**\
+[Voting Rights and Voting Policies GitHub Repository](https://github.com/RforOperations2021/hw1-jscanlo2)
 
 # Contact
 Jeffrey Scanlon\
