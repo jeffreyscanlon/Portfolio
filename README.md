@@ -19,15 +19,6 @@ During my time at Heinz, I have had the opportunity to apply my new skills in ma
 Here are links to other pages where you can see samples of my work!
 
 
-## Telling Stories with Data
-**[Final Project: "Common Ground", by Jeff Scanon](https://carnegiemellon.shorthandstories.com/common-ground/index.html)**\
-[Telling Stories with Data -- Visualizing Government Debt](govdebt.md)\
-[Telling Stories with Data -- Critique by Design](ReDesign.md)\
-[Telling Stories with Data -- Project: Part 1](ProjP1.md)\
-[Telling Stories with Data -- Project: Part 2](ProjP2.md)\
-[Telling Stories with Data -- Project: Part 3](ProjP3.md)
-
-
 ## Geographic Information Systems (GIS)
 **[Flooding and Resilience on the Louisiana Coast](https://arcg.is/KSajO)**\
 [Air Quality and Asthma in Allegheny County, Pennsylvania](https://arcg.is/1W4iXm)\
@@ -41,6 +32,14 @@ Here are links to other pages where you can see samples of my work!
 ## Python
 **[Impacts of COVID-19 on Pittsburgh's Crime and Transit Data: Exploratory Data Analysis](https://github.com/jeffreyscanlon/Python/blob/main/Pittsburgh_COVID19_EDA.ipynb)**\
 [General Python Repository](https://github.com/jeffreyscanlon/Python)
+
+## Telling Stories with Data
+**[Final Project: "Common Ground", by Jeff Scanon](https://carnegiemellon.shorthandstories.com/common-ground/index.html)**\
+[Telling Stories with Data -- Visualizing Government Debt](govdebt.md)\
+[Telling Stories with Data -- Critique by Design](ReDesign.md)\
+[Telling Stories with Data -- Project: Part 1](ProjP1.md)\
+[Telling Stories with Data -- Project: Part 2](ProjP2.md)\
+[Telling Stories with Data -- Project: Part 3](ProjP3.md)
 
 # Contact
 Jeffrey Scanlon\
