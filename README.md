@@ -38,8 +38,9 @@ Here are links to other pages where you can see samples of my work!
 **[Voting Rights and Voting Policies](http://jeffrey-scanlon.shinyapps.io/VotingRights)**\
 [Voting Rights and Voting Policies GitHub Repository](https://github.com/RforOperations2021/hw1-jscanlo2)
 
-## [Python](https://github.com/jeffreyscanlon/Python)
-**[Impacts of COVID-19 on Pittsburgh's Crime and Transit Data: Exploratory Data Analysis](https://github.com/jeffreyscanlon/Python/blob/main/Pittsburgh_COVID19_EDA.ipynb)**
+## Python
+**[Impacts of COVID-19 on Pittsburgh's Crime and Transit Data: Exploratory Data Analysis](https://github.com/jeffreyscanlon/Python/blob/main/Pittsburgh_COVID19_EDA.ipynb)**\
+[General Python Repository](https://github.com/jeffreyscanlon/Python)
 
 # Contact
 Jeffrey Scanlon\
