@@ -27,7 +27,10 @@ Here are links to other pages where you can see samples of my work!
 
 ## R Shiny for Web Applications
 **[Voting Rights and Voting Policies](http://jeffrey-scanlon.shinyapps.io/VotingRights)**\
-[Voting Rights and Voting Policies GitHub Repository](https://github.com/RforOperations2021/hw1-jscanlo2)
+[Voting Rights and Voting Policies GitHub Repository](https://github.com/RforOperations2021/hw1-jscanlo2)\
+**[Climate Change](https://jeffrey-scanlon.shinyapps.io/HW2_App/?_ga=2.256434700.666230072.1615137897-1225734515.1612490653)**\
+[Climate Change GitHub Repository](https://github.com/jeffreyscanlon/ClimateShinyApp)
+
 
 ## Python
 **[Impacts of COVID-19 on Pittsburgh's Crime and Transit Data: Exploratory Data Analysis](https://github.com/jeffreyscanlon/Python/blob/main/Pittsburgh_COVID19_EDA.ipynb)**\
