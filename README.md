@@ -31,6 +31,10 @@ Here are links to other pages where you can see samples of my work!
 **[Climate Change](https://jeffrey-scanlon.shinyapps.io/HW2_App/?_ga=2.256434700.666230072.1615137897-1225734515.1612490653)**\
 [Climate Change GitHub Repository](https://github.com/jeffreyscanlon/ClimateShinyApp)
 
+## Optimization with Gurobi
+[World Health Organization - Recommended Diet with Goal Programming](https://github.com/jeffreyscanlon/Optimization/tree/main/Goal%20Programming%20-%20WHO%20Diet%20Optimization)\
+[Drawing District Lines - Integer Programming](https://github.com/jeffreyscanlon/Optimization/tree/main/Integer%20Programming%20-%20Drawing%20District%20Lines)\
+[Selecting Locations of Emergency Shelters - Integer Programming](https://github.com/jeffreyscanlon/Optimization/tree/main/Integer%20Programming%20-%20Selecting%20Locations%20of%20Emergency%20Shelters)
 
 ## Python
 **[Impacts of COVID-19 on Pittsburgh's Crime and Transit Data: Exploratory Data Analysis](https://github.com/jeffreyscanlon/Python/blob/main/Pittsburgh_COVID19_EDA.ipynb)**\
