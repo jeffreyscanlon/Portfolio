@@ -41,7 +41,7 @@ Here are links to other pages where you can see samples of my work!
 [General Python Repository](https://github.com/jeffreyscanlon/Python)
 
 ## SAS
-**[SAS Respository](https://github.com/jeffreyscanlon/SAS)
+**[SAS Respository](https://github.com/jeffreyscanlon/SAS)**
 
 ## Telling Stories with Data
 **[Final Project: "Common Ground"](https://carnegiemellon.shorthandstories.com/common-ground/index.html)**\
