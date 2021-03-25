@@ -33,6 +33,10 @@ Here are links to other pages where you can see samples of my work!
 [Electric Vehcile Charging Stations](https://jeffrey-scanlon.shinyapps.io/FinalProject_JScanlon/?_ga=2.32777597.29412845.1616438076-1225734515.1612490653)\
 [E.V. Charging Stations GitHub Repository](https://github.com/RforOperations2021/FinalProject_JScanlon)
 
+## R Markdown
+**[Gender Pay Gap HTML File](https://jeffreyscanlon.github.io/RMarkdown/)**\
+[Gender Pay Gap GitHub Repository](https://github.com/jeffreyscanlon/RMarkdown)
+
 ## Optimization with Gurobi
 [World Health Organization - Recommended Diet with Goal Programming](https://github.com/jeffreyscanlon/Optimization/tree/main/Goal%20Programming%20-%20WHO%20Diet%20Optimization)\
 [Drawing District Lines - Integer Programming](https://github.com/jeffreyscanlon/Optimization/tree/main/Integer%20Programming%20-%20Drawing%20District%20Lines)\
