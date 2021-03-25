@@ -30,7 +30,7 @@ Here are links to other pages where you can see samples of my work!
 [Voting Rights and Voting Policies GitHub Repository](https://github.com/RforOperations2021/hw1-jscanlo2)\
 **[Climate Change](https://jeffrey-scanlon.shinyapps.io/HW2_App/?_ga=2.256434700.666230072.1615137897-1225734515.1612490653)**\
 [Climate Change GitHub Repository](https://github.com/jeffreyscanlon/ClimateShinyApp)\
-[Electric Vehcile Charging Stations](https://jeffrey-scanlon.shinyapps.io/FinalProject_JScanlon/?_ga=2.32777597.29412845.1616438076-1225734515.1612490653)\
+**[Electric Vehcile Charging Stations](https://jeffrey-scanlon.shinyapps.io/FinalProject_JScanlon/?_ga=2.32777597.29412845.1616438076-1225734515.1612490653)**\
 [E.V. Charging Stations GitHub Repository](https://github.com/RforOperations2021/FinalProject_JScanlon)
 
 ## R Markdown
