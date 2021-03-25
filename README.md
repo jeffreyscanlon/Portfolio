@@ -37,7 +37,7 @@ Here are links to other pages where you can see samples of my work!
 **[Gender Pay Gap HTML File](https://jeffreyscanlon.github.io/RMarkdown/)**\
 [Gender Pay Gap GitHub Repository](https://github.com/jeffreyscanlon/RMarkdown)
 
-## Optimization with Gurobi
+## Optimization with Python (Gurobi)
 [World Health Organization - Recommended Diet with Goal Programming](https://github.com/jeffreyscanlon/Optimization/tree/main/Goal%20Programming%20-%20WHO%20Diet%20Optimization)\
 [Drawing District Lines - Integer Programming](https://github.com/jeffreyscanlon/Optimization/tree/main/Integer%20Programming%20-%20Drawing%20District%20Lines)\
 [Selecting Locations of Emergency Shelters - Integer Programming](https://github.com/jeffreyscanlon/Optimization/tree/main/Integer%20Programming%20-%20Selecting%20Locations%20of%20Emergency%20Shelters)
