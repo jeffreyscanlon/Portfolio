@@ -49,7 +49,8 @@ Here are links to other pages where you can see samples of my work!
 [General Python Repository](https://github.com/jeffreyscanlon/Python)
 
 ## SAS
-**[SAS Respository](https://github.com/jeffreyscanlon/SAS)**
+**[Marijuana Dispensaries and Real Estate Prices](https://github.com/jeffreyscanlon/SAS/tree/main/Marijuana%20Dispensaries%20and%20Real%20Estate%20Prices)**
+**[Gentrification and Transit Changes in Urban Cores](https://github.com/jeffreyscanlon/SAS/tree/main/Gentrification%20and%20Transit%20Changes%20in%20Urban%20Cores)**
 
 ## Telling Stories with Data
 **[Final Project: "Common Ground"](https://carnegiemellon.shorthandstories.com/common-ground/index.html)**\
