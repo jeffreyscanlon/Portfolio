@@ -52,6 +52,9 @@ Here are links to other pages where you can see samples of my work!
 **[Marijuana Dispensaries and Real Estate Prices](https://github.com/jeffreyscanlon/SAS/tree/main/Marijuana%20Dispensaries%20and%20Real%20Estate%20Prices)**\
 **[Gentrification and Transit Changes in Urban Cores](https://github.com/jeffreyscanlon/SAS/tree/main/Gentrification%20and%20Transit%20Changes%20in%20Urban%20Cores)**
 
+## Stata
+**[Credit Access and College Enrollment - Regression Discontinuity Design](https://github.com/jeffreyscanlon/Stata/tree/main/College%20Loan%20Program%20-%20Regression%20Discontinuity)**
+
 ## Telling Stories with Data
 **[Final Project: "Common Ground"](https://carnegiemellon.shorthandstories.com/common-ground/index.html)**\
 [Telling Stories with Data -- Visualizing Government Debt](govdebt.md)\
