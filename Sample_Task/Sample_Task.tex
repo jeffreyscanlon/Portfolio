@@ -1,0 +1,319 @@
+% Options for packages loaded elsewhere
+\PassOptionsToPackage{unicode}{hyperref}
+\PassOptionsToPackage{hyphens}{url}
+%
+\documentclass[
+]{article}
+\usepackage{amsmath,amssymb}
+\usepackage{lmodern}
+\usepackage{iftex}
+\ifPDFTeX
+  \usepackage[T1]{fontenc}
+  \usepackage[utf8]{inputenc}
+  \usepackage{textcomp} % provide euro and other symbols
+\else % if luatex or xetex
+  \usepackage{unicode-math}
+  \defaultfontfeatures{Scale=MatchLowercase}
+  \defaultfontfeatures[\rmfamily]{Ligatures=TeX,Scale=1}
+\fi
+% Use upquote if available, for straight quotes in verbatim environments
+\IfFileExists{upquote.sty}{\usepackage{upquote}}{}
+\IfFileExists{microtype.sty}{% use microtype if available
+  \usepackage[]{microtype}
+  \UseMicrotypeSet[protrusion]{basicmath} % disable protrusion for tt fonts
+}{}
+\makeatletter
+\@ifundefined{KOMAClassName}{% if non-KOMA class
+  \IfFileExists{parskip.sty}{%
+    \usepackage{parskip}
+  }{% else
+    \setlength{\parindent}{0pt}
+    \setlength{\parskip}{6pt plus 2pt minus 1pt}}
+}{% if KOMA class
+  \KOMAoptions{parskip=half}}
+\makeatother
+\usepackage{xcolor}
+\IfFileExists{xurl.sty}{\usepackage{xurl}}{} % add URL line breaks if available
+\IfFileExists{bookmark.sty}{\usepackage{bookmark}}{\usepackage{hyperref}}
+\hypersetup{
+  pdftitle={R Notebook},
+  hidelinks,
+  pdfcreator={LaTeX via pandoc}}
+\urlstyle{same} % disable monospaced font for URLs
+\usepackage[margin=1in]{geometry}
+\usepackage{color}
+\usepackage{fancyvrb}
+\newcommand{\VerbBar}{|}
+\newcommand{\VERB}{\Verb[commandchars=\\\{\}]}
+\DefineVerbatimEnvironment{Highlighting}{Verbatim}{commandchars=\\\{\}}
+% Add ',fontsize=\small' for more characters per line
+\usepackage{framed}
+\definecolor{shadecolor}{RGB}{248,248,248}
+\newenvironment{Shaded}{\begin{snugshade}}{\end{snugshade}}
+\newcommand{\AlertTok}[1]{\textcolor[rgb]{0.94,0.16,0.16}{#1}}
+\newcommand{\AnnotationTok}[1]{\textcolor[rgb]{0.56,0.35,0.01}{\textbf{\textit{#1}}}}
+\newcommand{\AttributeTok}[1]{\textcolor[rgb]{0.77,0.63,0.00}{#1}}
+\newcommand{\BaseNTok}[1]{\textcolor[rgb]{0.00,0.00,0.81}{#1}}
+\newcommand{\BuiltInTok}[1]{#1}
+\newcommand{\CharTok}[1]{\textcolor[rgb]{0.31,0.60,0.02}{#1}}
+\newcommand{\CommentTok}[1]{\textcolor[rgb]{0.56,0.35,0.01}{\textit{#1}}}
+\newcommand{\CommentVarTok}[1]{\textcolor[rgb]{0.56,0.35,0.01}{\textbf{\textit{#1}}}}
+\newcommand{\ConstantTok}[1]{\textcolor[rgb]{0.00,0.00,0.00}{#1}}
+\newcommand{\ControlFlowTok}[1]{\textcolor[rgb]{0.13,0.29,0.53}{\textbf{#1}}}
+\newcommand{\DataTypeTok}[1]{\textcolor[rgb]{0.13,0.29,0.53}{#1}}
+\newcommand{\DecValTok}[1]{\textcolor[rgb]{0.00,0.00,0.81}{#1}}
+\newcommand{\DocumentationTok}[1]{\textcolor[rgb]{0.56,0.35,0.01}{\textbf{\textit{#1}}}}
+\newcommand{\ErrorTok}[1]{\textcolor[rgb]{0.64,0.00,0.00}{\textbf{#1}}}
+\newcommand{\ExtensionTok}[1]{#1}
+\newcommand{\FloatTok}[1]{\textcolor[rgb]{0.00,0.00,0.81}{#1}}
+\newcommand{\FunctionTok}[1]{\textcolor[rgb]{0.00,0.00,0.00}{#1}}
+\newcommand{\ImportTok}[1]{#1}
+\newcommand{\InformationTok}[1]{\textcolor[rgb]{0.56,0.35,0.01}{\textbf{\textit{#1}}}}
+\newcommand{\KeywordTok}[1]{\textcolor[rgb]{0.13,0.29,0.53}{\textbf{#1}}}
+\newcommand{\NormalTok}[1]{#1}
+\newcommand{\OperatorTok}[1]{\textcolor[rgb]{0.81,0.36,0.00}{\textbf{#1}}}
+\newcommand{\OtherTok}[1]{\textcolor[rgb]{0.56,0.35,0.01}{#1}}
+\newcommand{\PreprocessorTok}[1]{\textcolor[rgb]{0.56,0.35,0.01}{\textit{#1}}}
+\newcommand{\RegionMarkerTok}[1]{#1}
+\newcommand{\SpecialCharTok}[1]{\textcolor[rgb]{0.00,0.00,0.00}{#1}}
+\newcommand{\SpecialStringTok}[1]{\textcolor[rgb]{0.31,0.60,0.02}{#1}}
+\newcommand{\StringTok}[1]{\textcolor[rgb]{0.31,0.60,0.02}{#1}}
+\newcommand{\VariableTok}[1]{\textcolor[rgb]{0.00,0.00,0.00}{#1}}
+\newcommand{\VerbatimStringTok}[1]{\textcolor[rgb]{0.31,0.60,0.02}{#1}}
+\newcommand{\WarningTok}[1]{\textcolor[rgb]{0.56,0.35,0.01}{\textbf{\textit{#1}}}}
+\usepackage{graphicx}
+\makeatletter
+\def\maxwidth{\ifdim\Gin@nat@width>\linewidth\linewidth\else\Gin@nat@width\fi}
+\def\maxheight{\ifdim\Gin@nat@height>\textheight\textheight\else\Gin@nat@height\fi}
+\makeatother
+% Scale images if necessary, so that they will not overflow the page
+% margins by default, and it is still possible to overwrite the defaults
+% using explicit options in \includegraphics[width, height, ...]{}
+\setkeys{Gin}{width=\maxwidth,height=\maxheight,keepaspectratio}
+% Set default figure placement to htbp
+\makeatletter
+\def\fps@figure{htbp}
+\makeatother
+\setlength{\emergencystretch}{3em} % prevent overfull lines
+\providecommand{\tightlist}{%
+  \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
+\setcounter{secnumdepth}{-\maxdimen} % remove section numbering
+\ifLuaTeX
+  \usepackage{selnolig}  % disable illegal ligatures
+\fi
+
+\title{R Notebook}
+\author{}
+\date{\vspace{-2.5em}}
+
+\begin{document}
+\maketitle
+
+This is an \href{http://rmarkdown.rstudio.com}{R Markdown} Notebook.
+When you execute code within the notebook, the results appear beneath
+the code.
+
+Try executing this chunk by clicking the \emph{Run} button within the
+chunk or by placing your cursor inside it and pressing
+\emph{Ctrl+Shift+Enter}.
+
+\#Task 1
+
+\begin{Shaded}
+\begin{Highlighting}[]
+\FunctionTok{library}\NormalTok{(dplyr)}
+\end{Highlighting}
+\end{Shaded}
+
+\begin{verbatim}
+## 
+## Attaching package: 'dplyr'
+\end{verbatim}
+
+\begin{verbatim}
+## The following objects are masked from 'package:stats':
+## 
+##     filter, lag
+\end{verbatim}
+
+\begin{verbatim}
+## The following objects are masked from 'package:base':
+## 
+##     intersect, setdiff, setequal, union
+\end{verbatim}
+
+\begin{Shaded}
+\begin{Highlighting}[]
+\FunctionTok{library}\NormalTok{(tidyverse)}
+\end{Highlighting}
+\end{Shaded}
+
+\begin{verbatim}
+## -- Attaching packages --------------------------------------- tidyverse 1.3.0 --
+\end{verbatim}
+
+\begin{verbatim}
+## v ggplot2 3.3.3     v purrr   0.3.4
+## v tibble  3.1.0     v stringr 1.4.0
+## v tidyr   1.1.3     v forcats 0.5.1
+## v readr   1.4.0
+\end{verbatim}
+
+\begin{verbatim}
+## -- Conflicts ------------------------------------------ tidyverse_conflicts() --
+## x dplyr::filter() masks stats::filter()
+## x dplyr::lag()    masks stats::lag()
+\end{verbatim}
+
+\begin{Shaded}
+\begin{Highlighting}[]
+\NormalTok{sample1 }\OtherTok{\textless{}{-}} \FunctionTok{read.csv}\NormalTok{(}\AttributeTok{file =} \StringTok{\textquotesingle{}Employee Report Sample Data 1.csv\textquotesingle{}}\NormalTok{)}
+\NormalTok{sample2 }\OtherTok{\textless{}{-}} \FunctionTok{read.csv}\NormalTok{(}\AttributeTok{file =} \StringTok{\textquotesingle{}Employee Report Sample Data 2.csv\textquotesingle{}}\NormalTok{)}
+\NormalTok{rep\_to }\OtherTok{\textless{}{-}}\NormalTok{ sample1 }\SpecialCharTok{\%\textgreater{}\%}
+  \FunctionTok{group\_by}\NormalTok{(ReportsTo) }\SpecialCharTok{\%\textgreater{}\%}
+  \FunctionTok{summarize}\NormalTok{(}\FunctionTok{n}\NormalTok{(), }\FunctionTok{as.integer}\NormalTok{(}\FunctionTok{mean}\NormalTok{(Age)))}
+
+\FunctionTok{names}\NormalTok{(rep\_to) }\OtherTok{\textless{}{-}} \FunctionTok{c}\NormalTok{(}\StringTok{\textquotesingle{}Team Member Reported To\textquotesingle{}}\NormalTok{, }\StringTok{\textquotesingle{}Number of Team Members\textquotesingle{}}\NormalTok{, }\StringTok{\textquotesingle{}Average Age\textquotesingle{}}\NormalTok{)}
+\NormalTok{task1 }\OtherTok{\textless{}{-}}\NormalTok{ rep\_to}
+\NormalTok{task1}
+\end{Highlighting}
+\end{Shaded}
+
+\begin{verbatim}
+## # A tibble: 9 x 3
+##   `Team Member Reported To` `Number of Team Members` `Average Age`
+##   <chr>                                        <int>         <int>
+## 1 ""                                               1            45
+## 2 "Andre Perez"                                    5            25
+## 3 "Andrew Smith"                                   2            22
+## 4 "Bob Boss"                                       4            29
+## 5 "Daniel Smith"                                   2            28
+## 6 "David S"                                        2            26
+## 7 "Jenny Richards"                                 6            41
+## 8 "Katie Walker"                                   2            30
+## 9 "Martha Jones"                                   1            29
+\end{verbatim}
+
+\#Task 2
+
+\begin{Shaded}
+\begin{Highlighting}[]
+\FunctionTok{names}\NormalTok{(sample2) }\OtherTok{\textless{}{-}} \FunctionTok{c}\NormalTok{(}\StringTok{\textquotesingle{}FullName\textquotesingle{}}\NormalTok{, }\StringTok{\textquotesingle{}StartDate\textquotesingle{}}\NormalTok{)}
+
+\NormalTok{sample2}\SpecialCharTok{$}\NormalTok{StartDate }\OtherTok{\textless{}{-}} \FunctionTok{as.Date}\NormalTok{(sample2}\SpecialCharTok{$}\NormalTok{StartDate, }\AttributeTok{format =} \StringTok{\textquotesingle{}\%m/\%d/\%y\textquotesingle{}}\NormalTok{ )}
+\NormalTok{sample2}\SpecialCharTok{$}\NormalTok{Tenure }\OtherTok{\textless{}{-}} \FunctionTok{round}\NormalTok{(}\FunctionTok{as.numeric}\NormalTok{((}\FunctionTok{Sys.Date}\NormalTok{() }\SpecialCharTok{{-}}\NormalTok{ sample2}\SpecialCharTok{$}\NormalTok{StartDate)}\SpecialCharTok{/}\DecValTok{365}\NormalTok{),}\DecValTok{1}\NormalTok{)}
+\NormalTok{subset2 }\OtherTok{\textless{}{-}}\NormalTok{ sample2 }\SpecialCharTok{\%\textgreater{}\%}
+  \FunctionTok{select}\NormalTok{(FullName, Tenure)}
+
+\NormalTok{sample1}\SpecialCharTok{$}\NormalTok{FullName }\OtherTok{\textless{}{-}} \FunctionTok{paste}\NormalTok{(sample1}\SpecialCharTok{$}\NormalTok{FirstName, sample1}\SpecialCharTok{$}\NormalTok{LastName, }\AttributeTok{sep=}\StringTok{\textquotesingle{} \textquotesingle{}}\NormalTok{)}
+\NormalTok{subset1 }\OtherTok{\textless{}{-}}\NormalTok{ sample1 }\SpecialCharTok{\%\textgreater{}\%}
+  \FunctionTok{select}\NormalTok{(FullName, Position)}
+
+\NormalTok{pos\_ten }\OtherTok{\textless{}{-}} \FunctionTok{merge}\NormalTok{(subset1, subset2, }\AttributeTok{by=}\StringTok{"FullName"}\NormalTok{)}
+\NormalTok{task2 }\OtherTok{\textless{}{-}}\NormalTok{ pos\_ten }\SpecialCharTok{\%\textgreater{}\%}
+  \FunctionTok{select}\NormalTok{(Position, Tenure)}
+\NormalTok{task2[}\FunctionTok{order}\NormalTok{(}\SpecialCharTok{{-}}\NormalTok{task2}\SpecialCharTok{$}\NormalTok{Tenure),]}
+\end{Highlighting}
+\end{Shaded}
+
+\begin{verbatim}
+##           Position Tenure
+## 16         Analyst    9.7
+## 14             CFO    9.2
+## 15       Assistant    9.0
+## 17      Contractor    7.4
+## 20         Analyst    7.3
+## 4           Intern    7.0
+## 13          Intern    6.8
+## 25         Analyst    6.8
+## 8         Engineer    6.0
+## 18 Finance Manager    5.9
+## 10        Director    5.3
+## 2         Director    4.5
+## 21       Assistant    4.5
+## 3          Analyst    3.9
+## 12             CEO    3.8
+## 24        Engineer    3.8
+## 22       Assistant    3.7
+## 9         Engineer    3.3
+## 1       Accountant    3.2
+## 11         Analyst    2.7
+## 23           Sales    2.6
+## 5        Assistant    1.8
+## 6              CTO    0.5
+## 7               HR   -0.1
+## 19           Sales   -0.2
+\end{verbatim}
+
+\#Task 3
+
+\begin{Shaded}
+\begin{Highlighting}[]
+\FunctionTok{names}\NormalTok{(sample1) }\OtherTok{\textless{}{-}} \FunctionTok{c}\NormalTok{(}\StringTok{\textquotesingle{}ID\textquotesingle{}}\NormalTok{, }\StringTok{\textquotesingle{}FirstName\textquotesingle{}}\NormalTok{, }\StringTok{\textquotesingle{}LastName\textquotesingle{}}\NormalTok{, }\StringTok{\textquotesingle{}ReportsTo\textquotesingle{}}\NormalTok{, }\StringTok{\textquotesingle{}Position\textquotesingle{}}\NormalTok{, }\StringTok{\textquotesingle{}Age\textquotesingle{}}\NormalTok{, }\StringTok{\textquotesingle{}FullName\textquotesingle{}}\NormalTok{)}
+\NormalTok{task3 }\OtherTok{\textless{}{-}}\NormalTok{ sample1}\SpecialCharTok{$}\NormalTok{ID[}\FunctionTok{substr}\NormalTok{(sample1}\SpecialCharTok{$}\NormalTok{FirstName, }\DecValTok{1}\NormalTok{, }\DecValTok{1}\NormalTok{) }\SpecialCharTok{==} \StringTok{\textquotesingle{}M\textquotesingle{}}\NormalTok{]}
+\NormalTok{task3}
+\end{Highlighting}
+\end{Shaded}
+
+\begin{verbatim}
+## [1]  2 12 20 23 25
+\end{verbatim}
+
+\#Task 4
+
+\begin{Shaded}
+\begin{Highlighting}[]
+\FunctionTok{library}\NormalTok{(ggplot2)}
+\FunctionTok{library}\NormalTok{(plotly)}
+\end{Highlighting}
+\end{Shaded}
+
+\begin{verbatim}
+## 
+## Attaching package: 'plotly'
+\end{verbatim}
+
+\begin{verbatim}
+## The following object is masked from 'package:ggplot2':
+## 
+##     last_plot
+\end{verbatim}
+
+\begin{verbatim}
+## The following object is masked from 'package:stats':
+## 
+##     filter
+\end{verbatim}
+
+\begin{verbatim}
+## The following object is masked from 'package:graphics':
+## 
+##     layout
+\end{verbatim}
+
+\begin{Shaded}
+\begin{Highlighting}[]
+\NormalTok{subset3 }\OtherTok{\textless{}{-}}\NormalTok{ sample1 }\SpecialCharTok{\%\textgreater{}\%}
+  \FunctionTok{select}\NormalTok{(FullName, Age, Position)}
+
+\NormalTok{age\_ten }\OtherTok{\textless{}{-}} \FunctionTok{merge}\NormalTok{(subset3, subset2, }\AttributeTok{by =} \StringTok{"FullName"}\NormalTok{)}
+
+\FunctionTok{ggplot}\NormalTok{(age\_ten, }\FunctionTok{aes}\NormalTok{(}\AttributeTok{x=}\NormalTok{Age, }\AttributeTok{y=}\NormalTok{Tenure, }\AttributeTok{color=}\NormalTok{Position)) }\SpecialCharTok{+} \FunctionTok{geom\_point}\NormalTok{()}
+\end{Highlighting}
+\end{Shaded}
+
+\includegraphics{Sample_Task_files/figure-latex/unnamed-chunk-4-1.pdf}
+
+Add a new chunk by clicking the \emph{Insert Chunk} button on the
+toolbar or by pressing \emph{Ctrl+Alt+I}.
+
+When you save the notebook, an HTML file containing the code and output
+will be saved alongside it (click the \emph{Preview} button or press
+\emph{Ctrl+Shift+K} to preview the HTML file).
+
+The preview shows you a rendered HTML copy of the contents of the
+editor. Consequently, unlike \emph{Knit}, \emph{Preview} does not run
+any R code chunks. Instead, the output of the chunk when it was last run
+in the editor is displayed.
+
+\end{document}

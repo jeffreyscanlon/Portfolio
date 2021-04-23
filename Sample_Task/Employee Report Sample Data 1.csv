@@ -1,0 +1,26 @@
+﻿ID,FirstName,LastName,ReportsTo,Position,Age
+1,Daniel,Smith,Bob Boss,Engineer,25
+2,Mike,White,Bob Boss,Contractor,22
+3,Jenny,Richards,,CEO,45
+4,Robert,Black,Daniel Smith,Sales,22
+5,Noah,Fritz,Jenny Richards,Assistant,30
+6,David,S,Jenny Richards,Director,32
+7,Ashley,Wells,David S,Assistant,25
+8,Ashley,Johnson,Andrew Smith,Intern,22
+9,Joe,Reyez,Andrew Smith,Intern,22
+10,Valerie,Chen,Andre Perez,Analyst,23
+11,Jeff,B,Andre Perez,Analyst,26
+12,Melanie,Wren,Andre Perez,Analyst,28
+13,Andrew,Smith,Andre Perez,Analyst,23
+14,Daniel,Roberts,Bob Boss,Engineer,31
+15,Bob,Boss,Jenny Richards,CTO,55
+16,Cathy,Jones,Jenny Richards,HR,32
+17,Andre,Perez,Jenny Richards,Director,38
+18,Phil,Richardson,David S,Assistant,27
+19,Anders,Martel,Katie Walker,Accountant,33
+20,Miles,Williams,Katie Walker,Finance Manager,28
+21,Kenneth,Rudd,Martha Jones,Assistant,29
+22,Katie,Walker,Jenny Richards,CFO,61
+23,Monica,Powers,Andre Perez,Analyst,25
+24,Stan,Mitchell,Bob Boss,Engineer,39
+25,Millie,Reynolds,Daniel Smith,Sales,34
