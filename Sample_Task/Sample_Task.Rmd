@@ -1,0 +1,66 @@
+---
+title: "R Notebook"
+output:
+  html_document:
+    df_print: paged
+---
+
+This is an [R Markdown](http://rmarkdown.rstudio.com) Notebook. When you execute code within the notebook, the results appear beneath the code. 
+
+Try executing this chunk by clicking the *Run* button within the chunk or by placing your cursor inside it and pressing *Ctrl+Shift+Enter*. 
+
+```{r}
+#Task 1
+library(dplyr)
+library(tidyverse)
+
+sample1 <- read.csv(file = 'Employee Report Sample Data 1.csv')
+sample2 <- read.csv(file = 'Employee Report Sample Data 2.csv')
+rep_to <- sample1 %>%
+  group_by(ReportsTo) %>%
+  summarize(n(), as.integer(mean(Age)))
+
+names(rep_to) <- c('Team Member Reported To', 'Number of Team Members', 'Average Age')
+task1 <- rep_to
+task1
+
+#Task 2
+names(sample2) <- c('FullName', 'StartDate')
+
+sample2$StartDate <- as.Date(sample2$StartDate, format = '%m/%d/%y' )
+sample2$Tenure <- round(as.numeric((Sys.Date() - sample2$StartDate)/365),1)
+subset2 <- sample2 %>%
+  select(FullName, Tenure)
+
+sample1$FullName <- paste(sample1$FirstName, sample1$LastName, sep=' ')
+subset1 <- sample1 %>%
+  select(FullName, Position)
+
+pos_ten <- merge(subset1, subset2, by="FullName")
+task2 <- pos_ten %>%
+  select(Position, Tenure)
+task2[order(-task2$Tenure),]
+
+
+#Task 3
+names(sample1) <- c('ID', 'FirstName', 'LastName', 'ReportsTo', 'Position', 'Age', 'FullName')
+task3 <- sample1$ID[substr(sample1$FirstName, 1, 1) == 'M']
+task3
+
+#Task 4
+library(ggplot2)
+library(plotly)
+subset3 <- sample1 %>%
+  select(FullName, Age, Position)
+
+age_ten <- merge(subset3, subset2, by = "FullName")
+
+ggplotly(
+ggplot(age_ten, aes(x=Age, y=Tenure, color=Position)) + geom_point())
+```
+
+Add a new chunk by clicking the *Insert Chunk* button on the toolbar or by pressing *Ctrl+Alt+I*.
+
+When you save the notebook, an HTML file containing the code and output will be saved alongside it (click the *Preview* button or press *Ctrl+Shift+K* to preview the HTML file).
+
+The preview shows you a rendered HTML copy of the contents of the editor. Consequently, unlike *Knit*, *Preview* does not run any R code chunks. Instead, the output of the chunk when it was last run in the editor is displayed.
