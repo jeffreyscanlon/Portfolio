@@ -35,6 +35,8 @@ Here are links to other pages where you can see samples of my work!
 [E.V. Charging Stations GitHub Repository](https://github.com/RforOperations2021/FinalProject_JScanlon)
 
 ## R Markdown
+**[Data Mining: Predicting Flight Delays at Pittsburgh International Airport HTML File](https://htmlpreview.github.io/?https://github.com/jeffreyscanlon/Data-Mining-in-R/blob/main/Data%20Mining%20-%20Predicting%20Flight%20Delays/Group21_FinalProject.html)**\
+[Data Mining: Predicting Flight Delays at Pittsburgh International Airport GitHub Repository](https://github.com/jeffreyscanlon/Data-Mining-in-R/tree/main/Data%20Mining%20-%20Predicting%20Flight%20Delays)\
 **[Gender Pay Gap HTML File](https://jeffreyscanlon.github.io/RMarkdown/)**\
 [Gender Pay Gap GitHub Repository](https://github.com/jeffreyscanlon/RMarkdown)
 
