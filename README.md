@@ -48,7 +48,12 @@ Here are links to other pages where you can see samples of my work!
 
 ## Python
 **[Impacts of COVID-19 on Pittsburgh's Crime and Transit Data: Exploratory Data Analysis](https://github.com/jeffreyscanlon/Python/blob/main/Pittsburgh_COVID19_EDA.ipynb)**\
-[General Python Repository](https://github.com/jeffreyscanlon/Python)
+[General Python Repository](https://github.com/jeffreyscanlon/Python)\
+[Basic Pandas Sample](https://github.com/jeffreyscanlon/DataScienceBigData/tree/main/Basic_Pandas)\
+[Feature Engineering and Sentiment Analysis](https://github.com/jeffreyscanlon/DataScienceBigData/tree/main/FeatureEngineering_SentimentAnalysis)\
+[MapReduce Algorithm](https://github.com/jeffreyscanlon/DataScienceBigData/tree/main/MapReduce/a5-mrjob)\
+[Spark RDD and SparkSQL](https://github.com/jeffreyscanlon/DataScienceBigData/tree/main/SparkRDD_SparkSQL)\
+[WebScraping](https://github.com/jeffreyscanlon/DataScienceBigData/tree/main/WebScraping)
 
 ## SAS
 **[Marijuana Dispensaries and Real Estate Prices](https://github.com/jeffreyscanlon/SAS/tree/main/Marijuana%20Dispensaries%20and%20Real%20Estate%20Prices)**\
